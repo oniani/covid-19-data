@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 and specific to Epidemiology. If it is about participatory technique, then the definition should be different.
 The two definitions cover the most important features of PE:
 -First, acknowledgement that there is epidemiological data/intelligence held by livestock keepers; -That this data is mostly qualitative; -And that the interaction with and contribution of livestock keepers must be truly participatory and extend to all stages of the exercise -planning, implementation, data analysis, feedback, etc.; -Would be good to add a sentence somewhere about how data collected can be analysed in conjunction with the more traditional quantitative data to give an enhanced understanding of epidemiology; -After all, epidemiology goes beyond data collection. Methods of analysis and interpretation are just as important; -I definitely agree that as an emerging discipline, examples of PE are essential to clarify and reinforce the definition and limits of the discipline.

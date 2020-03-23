@@ -1,4 +1,7 @@
 In blue: comments regarding technical implementation and national application.
+
+<|abstract_body_separator|>
+
 Question to be asked when adding another participant. For each additional person that a person registered this question should be asked.
 If a person just registers and enters data for himself, then this question should not be asked.
 If you are filling in the survey on behalf of someone else, then make sure that you have the consent of that person to do so Why are we asking this? Flu is thought to spread very effectively at home, so it's important to know which Flusurvey (or Influweb or Influensakoll or…) participants live in the same household.

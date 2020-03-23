@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Here we give details of the MCMC routines used in the results sections. In all cases the proposals were Gaussian. Burn-in was 10 3 samples and the next 10 5 samples were taken, thinned by a factor of 10 to give 10 4 samples from the posterior. Table 1 gives the parameters for the full inference model. Table 2 gives the parameters used in the Hong Kong influenza inference.
 Parameter True value Prior Sampling variance β 2 U (0, 8) 0.05 σ 0.25 U (0, 2) 0.01 γ 0.5 U (0, 4) 0.02 Table S1 : MCMC parameters for the full inference model.
 Parameter Prior Sampling variance β U (0, 2) 0.05 σ U (0, 1) 0.01 γ U (0, 2) 0.02 

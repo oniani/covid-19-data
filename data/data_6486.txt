@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 To evaluate the 84 OIE pathogens ability to infect swine (wild and domestic), cattle, sheep, goats, equine, poultry, cervids (North American deer and elk species only), and humans we used a two-step process.
 First, for each of the 84 pathogens we used three references texts, Diseases of Swine (Zimmerman et al. 2012 ), Infectious Diseases of Livestock (Coetzer et al. 2004) , and Infectious Diseases of Wild Mammals (Williams and Barker 2008) to determine well-established host susceptibility using our a-priori susceptibility categories for each of the eight hosts. Second, pathogen-host combinations with susceptibilities that were identified as other than clinical or sub-clinical were then investigated using the peer-reviewed literature that included both edited book volumes and scientific journals.
 To implement the second search of the peer-reviewed literature we used a combination of search terms for the scientific and common names of both hosts (Table S1 ) and pathogens (Table S2) 

@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 The terms in this equation are described in the main text. We remind that the Latin indices run on the degree, and Greek indices run over the 2 v + 1 compartments, that are ordered by increasing number of viral species they contain. Let us define as φ the function that counts such number, so that φ( wt ) = 1 (just wt), φ( 1 ) = 2 (wt plus one variant), φ( seg ) = v (all the variants), φ( all ) = v + 1, and so on. The ordering is such that α > β ⇒ φ( α ) ≥ φ( β ).
 Here we consider v = 1, homogeneous contacts, and no differential degradation. Let x 1 , x 2 be the prevalence of wt , all , respectively. Equation (S.1) reduces to
 As explained in the main text, the equation of the total prevalence z = x 1 + x 2 decouples (see also Sect. S.5). It is thus convenient to consider the system in (z, x 2 ):

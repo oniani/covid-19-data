@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 A randomised controlled trial of face masks and hand hygiene in reducing influenza transmission in households.
 Relevant definitions: Index case: the first subject to be infected with influenza in a household. Household contact: any person living in the same household as the index case. Secondary attack ratio (SAR): the proportion of household contacts of an index case who subsequently become infected with influenza. Hand washing: a process for the removal of soil and transient microorganisms from the hands [1] . Hand antisepsis: a process for the removal or destruction of transient microorganisms [1] .
 The investigational products include surgical face masks, liquid hand soap and hypoallergenic waterless alcohol-based hand cleanser with emollient. The interventions will incorporate distribution of these investigational products and education on their proper use.

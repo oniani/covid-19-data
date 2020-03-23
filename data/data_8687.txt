@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Early detection of epidemics, but also population health status ascertainment and Public Health decisionmaking oftentimes depend on effective disease surveillance systems [1, 2] .
 The Integrated Disease Surveillance and Response (IDSR) approach was proposed to countries in the African region by the Regional Office for Africa of the World Health Organization (WHO AFRO) in 1998. Its purpose is to establish one national communicable disease surveillance system integrating different surveillance activities into one, consisting of functions using the same or similar structures, processes and personnel. The goal is an effective communicable disease control based on functioning effective disease surveillance and response systems. Since then, many countries in Africa have adapted and adopted it with some including noncommunicable diseases as well [3, 4] .
 The International Health Regulations (IHR) constitute an agreement by WHO member states to (implement measures limiting the spread of health risks, including requirements concerning surveillance and response activities [5] . IDSR systems can help achieve and sustain countries' IHR obligations, as priorities like timely detection and response to Public Health (PH) events are shared between the two [6] .

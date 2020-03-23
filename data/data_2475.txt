@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 What Is the Origin of PARV4 in Humans?
 PARV4 isolates have been subclassified into three genotypes ( Figure 1B ). Genotypes 1 and 2 (the latter originally termed PARV5) are predominant in Europe, North America, and Asia [3, 4] ; genotype 3 is most widespread in Africa [5, 6] . Genetic diversity within each genotype is minimal, leading to one possible inference that the spread of each has been a relatively recent phenomenon, likely originating within the past 20-30 years [4] . It is possible that the three genotypes represent separate zoonotic transmissions of PARV4 into human populations, perhaps from chimpanzees and monkey species that harbour the most closely related parvoviruses to PARV4 [4, 7] . However, in a recent study [8] , the nonhuman PARV4-like variants were species-specific, despite frequent opportunities for transmission, including blood contact, between nonhuman primates and human hunters. Despite its scarcity in Western countries, PARV4 may, alternatively, represent the human lineage of a parvovirus that has remained species-specific throughout the evolution of the Partetravirus genus.
 Who Gets PARV4 and How Is It Transmitted?

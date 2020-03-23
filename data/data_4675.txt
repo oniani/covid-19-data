@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Acute respiratory infections (ARIs) are a leading cause of morbidity and mortality worldwide, 1 resulting in an estimated 4Á25 million deaths globally each year. 2 Mathematical modeling data suggest influenza contributes significantly to the burden of ARI morbidity and mortality, with one study estimating that 18% of all deaths due to lower respiratory infections globally in 2010 were caused by influenza. 3, 4 Unfortunately, significant gaps exist in current estimates with little or no data available on influenza epidemiology in many parts of the world, including the Eastern Mediterranean region.
 The Hashemite Kingdom of Jordan is a medium human development country 5 in the Eastern Mediterranean region with an upper-middle income economy. 6 The population is over 6Á5 million with 79% living in urban areas. The capital city Amman has a population over one million. Jordan has a Mediterranean-style climate characterized by arid summer months with a cool rainy season from November to April. 7 Little has been published on influenza activity in Jordan, and there is no national seasonal influenza vaccination policy for all Jordanians.
 Sentinel surveillance for severe acute respiratory infections 

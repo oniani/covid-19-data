@@ -1,4 +1,7 @@
 We employed a spatially-explicit IBM motivated by the one previously proposed by Lourenço and Recker (2013) 
+
+<|abstract_body_separator|>
+
 borne disease, hosts are immune for the rest of their life. Susceptible hosts become exposed to the virus at a rate λ H (force of infection), then become infectious after 1/ H days, and finally recover after 1/γ days. Susceptible vectors become exposed to the virus at a rate λ V , and develop infectiousness after 1/ V days.
 The force of infection on susceptible hosts, λ H is dependent on the number of infected vectors in the system, and the force of infection on susceptible vectors, λ V is dependent on the number of infected hosts in the system. All vectors bite hosts at a constant per day rate β. Thus the force of infection on susceptible hosts and on susceptible vectors are
 where p H,V is the probability of successfully transmitting the disease given a biting event between an infected and susceptible individual, and I H (t) and I V (t) are the number of hosts and vectors infected at time t respectively. Additionally, individuals were infected at an external infection rate ι to account for introduction of the disease from outside the system.

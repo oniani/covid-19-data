@@ -1,4 +1,7 @@
 Background: Respiratory syncytial virus (RSV) infection is the second most important cause of death in the first year of life, and early RSV infections are associated with the development of asthma. Breastfeeding and serum IgG have been shown to protect against RSV infection. Yet, many infants depend on bovine milk-based nutrition, which at present lacks intact immunoglobulins.
+
+<|abstract_body_separator|>
+
 Respiratory syncytial virus (RSV) infection is a major cause of death in the first year of life, with especially high mortality rates in African and Asian countries [1, 2, 3] . Upper respiratory tract infections (URTI) with RSV generally cause relatively mild disease that does not require treatment. These infections can progress, however, into lower respiratory tract infections (LRTI) and cause severe disease, especially in pre-mature infants. RSV can also cause recurrent infection of the upper respiratory tract.
 An important complication of upper respiratory infections is middle ear inflammation and-related deafness [4, 5] , and RSV infections are associated with the development of asthma at a later age [6, 7, 8] .
 Other common causes for respiratory tract infections are Haemophilus influenzae type b (Hib), parainfluenza virus, rhinovirus and influenza virus [9, 10, 11] .

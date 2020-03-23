@@ -1,4 +1,7 @@
 Background: Universal access to information for health professionals is a need to achieve "health for all strategy." A large proportion of the population including health professionals have limited access to health information in resource limited countries. The aim of this study is to assess information needs among Ethiopian health professionals.
+
+<|abstract_body_separator|>
+
 Qualified health care professionals (HCPs) have vital roles in achieving health goals of a given country [1, 2] . Updating knowledge with relevant information is very important for health care professionals to deliver quality and sustainable health care services to their consumers [1] [2] [3] . This is possible only when there is a sustainable access to health information resources (HIRs) in health facilities [4, 5] .
 Health information is important to improve knowledge based on which evidence-based decision is made to serve the clients of health facilities. Access to health information facilitates to use new medical technologies, handle properly the necessary medical procedures and treatment of patients. The proper health information management brings health workers to act harmoniously in a similar manner on medical and health practice [3] [4] [5] .
 The relevance of health information is measured using two indicators. Information need: is a recognition that the knowledge is inadequate to satisfy a purpose that someone needs to achieve [6] . Information Seeking Behaviour: is the purposive searching for information because of a need to satisfy some goals.

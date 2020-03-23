@@ -1,4 +1,7 @@
 PLOS ONE |
+
+<|abstract_body_separator|>
+
 Zoonotic diseases have varying public health burden and socio-economic impact across time and geographical settings making their prioritization for prevention and control important at the national level. We conducted systematic prioritization of zoonotic diseases and developed a ranked list of these diseases that would guide allocation of resources to enhance their surveillance, prevention, and control.
 A group of 36 medical, veterinary, and wildlife experts in zoonoses from government, research institutions and universities in Kenya prioritized 36 diseases using a semi-quantitative One Health Zoonotic Disease Prioritization tool developed by Centers for Disease Control and Prevention with slight adaptations. The tool comprises five steps: listing of zoonotic diseases to be prioritized, development of ranking criteria, weighting criteria by pairwise comparison through analytical hierarchical process, scoring each zoonotic disease based on the criteria, and aggregation of scores.
 In order of importance, the participants identified severity of illness in humans, epidemic/ pandemic potential in humans, socio-economic burden, prevalence/incidence and availability of interventions (weighted scores assigned to each criteria were 0.23, 0.22, 0.21, 0.17 and 0.17 respectively), as the criteria to define the relative importance of the diseases. The

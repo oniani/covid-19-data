@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 The combined anti-microbial and anti-inflammatory properties of a macrolide, azithromycin, will improve clinical outcomes for infants hospitalised with moderate to severe bronchiolitis.
 That co-infection with other respiratory pathogens alters an infant's immune response and is responsible for the differences seen in the clinical recovery of infants with bronchiolitis.
 Assess the efficacy of a single dose of Azithromycin (30mg/kg) to a) Improve the clinical course of moderate to severe bronchiolitis (assessed by supplemented oxygen requirement and length of hospital stay). b) reduce the risk of further respiratory illness within 6 months of this bronchiolitis episode. c)

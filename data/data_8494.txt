@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 When HFMD occurs, people turn to the Internet for help in finding related information. Guardians' behavior can be simulated, as shown in S1 Fig.. Most people use keywords based on what they remember from doctors, media reports and surrounding advertisements, which may or may not be accurate. At this stage, the keywords selected are general and broad, but they concentrate on several basic symptoms or potential treatments; these words are defined as General Keywords. When staff at hospitals and research institutes refer to the Internet for the causes and methods of treating HFMD using professional keywords, we define these types of keywords as Treatment Keywords. Finally, with respect to preventing HFMD, parents and schools tend to search online for information on how to prevent HFMD; these types of keywords are classified as Prevention Keywords.
 The 11 keywords were then classified into 3 groups according to the analysis above the index represents the type of keywords to be counted, n represents the number of keywords contained in this group and l is the number of weeks ahead of current week when the maximum cross correlation occurred. The composite index was then counted by adding these three types of keywords together, that is:
 composite index general keywords treatment keywords prevention keywords    ( 1 )

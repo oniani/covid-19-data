@@ -1,4 +1,7 @@
 The prevalence of self-reported preventive behaviors in response to an anticipated local human-to-human H5N1 transmission outbreak and factors associated with such behaviors have not been examined.
+
+<|abstract_body_separator|>
+
 it has been estimated that 7.4 million deaths may result worldwide [7] .
 During the SARS epidemic, preventive measures were commonly practiced [8] and a number of these behaviors [9] [10] [11] have been sustained by a large proportion of the public even after the SARS epidemic subsided in Hong Kong [12] . Preventive behaviors such as face mask use and handwashing have been suggested to be effective in the control of the SARS epidemic [9] . Understanding the correlates of these behavioral changes would facilitate formulation of policies and campaigns to promote appropriate behavioral responses in the event of a human-to-human H5N1 outbreak.
 This study investigated the prevalence of self-reported preventive behaviors in response to a hypothetical local outbreak of human-to-human H5N1 transmission. These behaviors included both self-protective measures as well and those protecting others from contracting the virus. Factors associated with these behaviors were investigated.

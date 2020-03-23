@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 1 Materials and methods 1 
 We performed our analysis by using an individual-based stochastic simulation model previously developed for Europe and employed in [1] to derive synthetic contact matrices for 26 countries, which is a refined version of a model already used to investigate the spread of the 2009 H1N1 influenza pandemic in Europe [2, 3] . Highly detailed country-specific socio-demographic data on age structure, household size and composition, employment rates by age, educational system were used to generate a synthetic population where each individual is characterized by an age, a household membership and an occupation between student, worker and inactive (unemployed/retired).
 Data on households and employment rates are provided by the Statistical Office of the European Commission (Eurostat, http://epp.eurostat.ec.europa.eu); data on educational organization are taken from the Education, Audiovisual and Culture Executive Agency of the European Commission (http://eacea.ec.europa.eu) and from the UNESCO Institute for Statistics (http://www.uis.unesco.org/Pages/default.aspx).

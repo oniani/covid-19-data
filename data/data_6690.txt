@@ -1,4 +1,7 @@
 Gastroenteritis (GE) and respiratory tract infection (RTI) outbreaks are a significant issue in nursing homes. This study aimed to describe GE and RTI outbreaks with infection and allcause lethality rates according to the individual characteristics of nursing home residents.
+
+<|abstract_body_separator|>
+
 Introduction Gastroenteritis (GE) and respiratory tract infection (RTI) outbreaks represent a significant burden of illness in nursing homes. Viruses cause the majority of these outbreaks, and noroviruses and influenza viruses are the most common pathogens [1, 2] .
 Previous studies have suggested that viral respiratory infections and norovirus outbreaks are a common cause of hospitalization or death, particularly among elderly individuals [3] [4] [5] .
 The impact of outbreaks has been described in terms of both frequency and epidemiology, but little is known about infection rates and all-cause lethality in GE and RTI nursing home outbreaks in relation to the individual characteristics of the residents [6] . The residents of these institutions are increasingly elderly and dependent, and the impact of this trend on the seasonal outbreak burden requires in-depth investigation. The results of studies focused on this issue could yield valuable information for nursing homes, allowing them to adapt their infection control strategies, in particular for improved assessment of infection risk.

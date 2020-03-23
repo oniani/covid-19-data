@@ -1,4 +1,7 @@
 The present study aimed to provide information on awareness of the attributable fraction of cancer causes among the Japanese general population.
+
+<|abstract_body_separator|>
+
 In Japan, cancer has been recognized as a major component of the overall pattern of disease for decades. Thus, the importance of cancer prevention by lifestyle modification should now be strongly acknowledged.
 Internationally, several studies have estimated the proportion of total cancer deaths attributable to various risk factors based on epidemiologic evidence [1, 2] , and various international guidelines and recommendations derived from these have appeared [3] [4] [5] [6] . Not surprisingly, domestic guidelines and recommendations for cancer prevention in Japan such as the 'Twelve recommendations for cancer prevention [7]' and 'Healthy People Japan 21 [8] ' have been significantly influenced by these reports.
 Public awareness of risk factors in relation to cancer prevention has been surveyed in only a few countries [9, 10] , and results have demonstrated poor awareness. Other studies focusing on specific cancers only have also appeared [11] [12] [13] [14] . However, none of these studies quantitatively evaluated public awareness of the attributable fraction of individual risk factors.

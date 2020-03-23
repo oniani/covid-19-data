@@ -1,4 +1,7 @@
 Exacerbations are major contributors to morbidity and mortality in patients with chronic obstructive pulmonary disease (COPD), and respiratory bacterial and viral infections are an important trigger. However, using conventional diagnostic techniques, a causative agent is not always found. Metagenomic next-generation sequencing (mNGS) allows analysis of the complete virome, but has not yet been applied in COPD exacerbations.
+
+<|abstract_body_separator|>
+
 a1111111111 a1111111111 a1111111111 a1111111111 a1111111111
 Chronic obstructive pulmonary disease (COPD) is characterized by exacerbations with high morbidity and mortality, and over 65 million patients suffer from this disease worldwide [1] . A COPD exacerbation is an acute event leading to worsening of the respiratory symptoms and is associated with a deterioration of lung function [2] . Exacerbations are mainly associated with infections, of which a large part is caused by viruses (22-64%) [3] [4] [5] [6] . However, in part of the exacerbations an etiologic agent is not detected.
 Current routine virus diagnostics is based on polymerase chain reactions (PCR) and inherently the number of detectable pathogens is restricted to the ones included in the assay. Rare, mutated and pathogens with an uncommon clinical presentation will be missed, along with new and currently unknown ones. Over the last decades, several previously unidentified viruses have been discovered as respiratory pathogens, including metapneumovirus [7] , middle-east respiratory syndrome coronavirus [8] and human bocavirus [9] .

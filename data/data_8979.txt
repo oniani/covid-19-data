@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Let G be a structure. For simplicity of notation, we write G = •G if the first position is unpaired, and G = (. . .) j G is the first base is paired to some position j, and G is the substructure of G starting from position j + 1. Alternatively, we may use the notation (i, j) ∈ G for the case where the position i and j are base paired in G.
 The expected length E[d G (i, j)] can be calculated as: follows:
 Now EL sg can be simplified as follows:

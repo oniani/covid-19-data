@@ -1,4 +1,7 @@
 Chimpanzee KIR haplotypes.
+
+<|abstract_body_separator|>
+
 Gene sequences were aligned with MAFFT [3] and corrected manually. The alignment was then divided into fourteen segments, as previously described [4] . Each segment was analyzed with four methods:
 Bayesian, maximum-likelihood (ML), neighbor-joining (NJ) and parsimony. NJ phylogenetic analysis was performed with MEGA4 [5] using the Maximum Composite Likelihood method with 500 replicates. PAUP*4.0b10 [6] and the tree bisection-reconnection branch swapping algorithm were used for parsimony analyses with 500 replicates and a heuristic search. ML analyses were performed with RAXML7 [7] under the GTR+CAT model with 500 replicates (rapid bootstrapping). For the Bayesian analysis we selected the model of DNA substitution using MODELTEST3.7 [8] and the Akaike information criterion. Bayesian phylogenetic analyses used MRBAYES3.1.2 [9] ; sampling was performed with one cold chain and three heated chains, which were run for 2,000,000 generations. Trees were sampled every 250 generations and the first 4,000 trees were discarded before a consensus tree was generated. In all analyses the average standard deviation of split frequencies for the three runs was <0.01.
 Recombination breakpoints in chimpanzees were identified using RDP [10] and confirmed by phylogenetic analyses and alignment inspection.

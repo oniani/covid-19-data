@@ -1,4 +1,7 @@
 Acute gastroenteritis is one of the main causes of mortality in humans and young animals. Domestic and mainly wild animals such as bats, small rodents and birds are highly diversified animals in relation to their habitats and ecological niches and are widely distributed geo-
+
+<|abstract_body_separator|>
+
 Emerging and reemerging infectious diseases are increasing each year in several countries, with an impact both on human populations and on domestic and wild animals living in areas with considerable forest remnants [1] . Most of these diseases are of viral origin, suggesting the emergence and reemergence of viruses that are triggered by human activities that modify the environment [2] .
 The populations of wild animals that inhabit forest fragments are strategic groups for studies of public health and the transmission of zoonosis, given that they act as indicators in the assistance and intervention in the human populations, aiming at the prevention of outbreaks and epidemics [3] .
 Acute gastroenteritis can be caused by infection in the gastrointestinal tract, caused by different infectious or parasite agents [4] [5] [6] [7] . They represent one of the main causes of mortality in humans, and in young animals, counting for about 25% of mortality [8] . Rotavirus is widely distributed in animals, which act as sources of rotavirus emergent strains, with these animals acting in the transmission between species and through reassortment leading to the emergence of new strains which have been reported in human infections [9] [10] [11] [12] .

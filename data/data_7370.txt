@@ -1,4 +1,7 @@
 Aim: The loop mediated isothermal amplification (LAMP) was standardized for rapid detection of Clostridium perfringens.
+
+<|abstract_body_separator|>
+
 The Clostridium perfringens is a Gram-positive anaerobic, spore forming, rod-shaped bacteria that commonly found in the gastrointestinal tract of both humans and animals [1] . The organism is classified into five toxinotypes (A to E) based on the production of four major toxins, namely alpha (cpa), beta (cpb), epsilon (etx), and iota (itx). C. perfringens Type A is implicated in ovine and caprine enterotoxemia in some parts of the world. The cpb2 producing C. perfringens Type A has also been linked to disease in several animal species, including sheep and goats and poultry [2, 3] .
 Various polymerase chain reaction (PCR) protocols including multiplex PCR assays have been established to genotype C. perfringens isolates [4, 5] . PCR got several intrinsic disadvantages, such as requirement of thermal cycling, time-consuming, post-PCR analysis, and high-risk for cross-contamination [6] . Loop mediated isothermal amplification (LAMP) is a novel nucleic acid amplification which relies on auto-cycling strand displacement DNA synthesis performed by the BstDNA polymerase large fragment [7] [8] [9] [10] .
 Taking above factors into consideration, attempts were made in the present study to develop LAMP with ease of operation for amplification of cpa gene of C. perfringens.

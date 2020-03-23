@@ -1,4 +1,7 @@
 Corona viruses cause common cold, and infections caused by corona viruses are generally self-resolving. During the last 4 years, corona viruses have become the most important viruses worldwide because of the occurrence of several recent deaths caused by corona viruses in Saudi Arabia. Spread of the infection occurred worldwide; however, most cases of mortality have occurred in the Middle East. Owing to the predominance of outbreaks in the Middle Eastern countries, the virus was renamed a Middle East respiratory syndrome corona virus (MERS-CoV) by the Corona virus Study Group. The Center for Diseases Control and Prevention and World Health Organization maintain a website that is updated frequently with new cases of MERS-CoV infection. In this review, we describe the history and epidemiology of this novel virus. Studies of the genetics and molecular mechanisms of this virus are expected to facilitate the development of vaccines in the future.
+
+<|abstract_body_separator|>
+
 publications and the risk of bias of included studies, and extracted data (Table 1) .
 The authors searched the topic through the following steps a) Search in Google. b) Search in PubMed c) Evaluated the papers, divided them depending on the inclusion and exclusion criteria. d) Evaluated the articles and analyzed them.
 We searched through Google, Pub Med, Pub Med Central, CAS, Citebase, DOAJ, Embase, Embiology, MED-LINE, OAIster, SCImago, Scopus, SOCOLAR and Zetoc by using the keywords.

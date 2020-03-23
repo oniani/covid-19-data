@@ -1,4 +1,7 @@
 OBJECTIVES: Isolation due to the management of infectious diseases is thought to affect mental health, but the effects are still unknown. We examined the prevalence of anxiety symptoms and anger in persons isolated during the Middle East Respiratory Syndrome (MERS) epidemic both at isolation period and at four to six months after release from isolation. We also determined risk factors associated with these symptoms at four to six months.
+
+<|abstract_body_separator|>
+
 Since May 20, 2015, when a patient was first diagnosed with Middle East Respiratory Syndrome (MERS) in Korea, the num-ber of patients affected with MERS drastically increased and led to diagnosis of MERS in 186 patients within 45 days, followed by eventual deaths in 38 patients, leaving a record of a 20% mortality rate.
 Due to the spread of MERS when preventive vaccine and treatment options were not clearly established, social anxiety and fear caused by uncertainty became core issues. Unverified rumors resulted in sharing of false information.
 People concerned about the possibility of being infected with MERS. Some hospitals and schools closed, which increased anxiety in general population. Avoidance of self-isolated individuals with fear of infection of MERS and the tendency to avoid health care workers and their family members became social stigmas and provoked outrage in MERS patients or isolated in-dividuals.

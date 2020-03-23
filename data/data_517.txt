@@ -1,4 +1,7 @@
 Epidemiological research on the pathogenesis, diagnosis, and treatment of infectious diseases is a broad field of study with renewed validity in the face of social changes and new threats. The spatio-temporal distribution of diseases is central to the knowledge of their development, transmission, spread, and dynamics.
+
+<|abstract_body_separator|>
+
 Epidemiological research on the pathogenesis, diagnosis, and treatment of infectious diseases is a broad field of study with renewed validity in the face of social changes and new threats. The spatio-temporal distribution of diseases is central to the knowledge of their development, transmission, spread, and dynamics.
 New technologies and geographic information system (GIS) analysis together with highly structured mathematical and statistical techniques have a special utility in describing and analyzing the incidence of infectious diseases. Specifically, Bayesian inference methods allow the analysis of models with complex and flexible structures suitable to represent the diverse characteristics present in each geographical environment and disease.
 Tuberculosis, hepatitis, human immunodeficiency virus (HIV), influenza, malaria, dengue, zika, and other vector-borne diseases are a constant concern for health authorities, practitioners, and patients. A variety of environmental, climatic, and socio-economic factors underlie their spatio-temporal patterns. In addition, factors such as changes in climate, habits, or land use intervene and complicate the understanding of these processes.

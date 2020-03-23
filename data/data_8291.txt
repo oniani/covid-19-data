@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 The Medical Library Association (MLA) InSight Initiative Summit 1, held March 6-7, 2018, in Chicago, IL, brought together library leaders and publishing industry partners to engage in high-level, high-value dialogue on issues of common interest that impact the health information profession. The theme of this summit, "Engaging Users in a Disruptive Era," addressed the following topics:
 • leveraging specialized discovery tools to maximize user engagement
 • security and the future of Internet protocol (IP) address authentication

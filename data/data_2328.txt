@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Mapping overlapping functional elements embedded within the protein-coding regions of RNA viruses
 Table S1 -List of reference sequences and alignment diversity statistics 2
 Synplot2 results for representative RNA viruses (Figures S1 to S16) 5 Table S2 -Additional ORFs added to virus genome maps for the synplot2 analysis 22

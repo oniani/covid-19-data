@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 taBLe 1 | Some outstanding questions regarding ME/CFS, which are addressed in this conceptual review.
 the hypothesis gives rise to several verifiable general questions • What is the nature of the genetic predisposition?
 • Can the infection history of ME/CFS patients be traced? • Does it differ from those of other diseases, e.g., autoimmune ones? • Is there a common sequence of infection, postexertional malaise, and comorbidity occurrence during ME/CFS pathogenesis? • Can defects in tolerance development be detected in ME/CFS patients? • Can the path of B cell clones from germ line to various autoreactivities be traced in ME/CFS patients? • Which autoantibodies can be detected in ME/CFS patients and its comorbidities? • Can clues to ME/CFS biomarkers be derived from this explanatory model?

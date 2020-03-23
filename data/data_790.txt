@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Emergencies (APSED III) during peaceful times between public health emergencies builds capacity, confidence and trust in information sharing during emergencies.
 • IHR communication is integral to the national, regional and global epidemic intelligence and risk assessments system.
 • Regular simulation exercises (for example, IHR Exercise Crystal) play an important role in testing and strengthening IHR communication.

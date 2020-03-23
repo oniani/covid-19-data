@@ -1,4 +1,7 @@
 Interpretation of the distance to the epidemic threshold when η > 0
+
+<|abstract_body_separator|>
+
 Interpretation of the distance to the epidemic threshold when η > 0
 When there is a small rate at which individuals can be infected from other populations or an environmental source (0 < η 1), there is no longer a disease-free equilibrium but the concept of an epidemic threshold is still relevant. One can see from equation (2.6 ) that Y * is slightly increased by the addition of η to the force of infection. When R 0 is not too close to 1, Y * can be well-approximated by making a linear approximation to the square root function starting at the point where its argument is equal to its first term, which yields
 Using this approximation, one can see that when R 0 1, Y * /N 0 scales with η. When R 0 1, Y * /N 0 is potentially much larger and effectively independent of η. Also, a large epidemic is only possible when R 0 1. Therefore, we can still consider R 0 = 1 as an epidemic threshold for small η. To clarify that Y * /N 0 is not too large when R 0 ≈ 1 we need a second approximation. In this case, Y * /N 0 can be bounded by applying the triangle inequality to obtain

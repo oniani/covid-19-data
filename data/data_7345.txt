@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Yield 79%; mp 249-251°C (dec.) recrystallized from toluene. 
 The two enantiomers of the racemic DD 363 were separated at 25°C by normal phase HPLC on a chiral column (Chiralpak ® IB (250 x 4,6 mm); Chiral Technologies, Illkirch France) eluting with ethanol as the mobile phase at a flow rate of 1 ml/min, coupled to a polarimeter. The detection wavelength was 254 nm.
 The two enantiomers, eluting at 4.71 min (+) and 7.71 min (-), respectively, were obtained satisfactorily pure on a 100 mg scale of each enantiomer after evaporation of the solvent (3).

@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 We assume that inoculum is emitted from a given "source" tree, with emission rateβ, along a random direction given by an angle θ ∈ (0, 2π] drawn from the probability distribution g(θ). Inoculum travels along the bearing direction θ and is deposited at a distance r given by the conditional probability distribution, or one-dimensional dispersal kernel with parameter α, f (r|θ; α) (see e.g. [1] ). If inoculum dispersal is isotropic, g(θ) is a uniform distribution, g(θ) = 1/(2π), and f (r|θ; α) ≡ f (r; α). The probability that inoculum falls in a small area at distance r and angle θ, delimited in polar coordinates by the diameter dr and the subtending arc dθ (dA = r dr dθ), is given by P (dA) ≃ f (r|θ; α)g(θ)dr dθ = 1 2π f (r; α) dr dθ = 1 2πr
 f (r; α) dA.
 (S1)

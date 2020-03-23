@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Scientific RepoRts | 6:34589 | DOI: 10 .1038/srep34589
 The unprecedented outbreak of Ebola in West Africa resulted in over 28,000 cases and 11,000 deaths, underlining the need for a better understanding of the biology of this highly pathogenic virus to develop specific counter strategies. Two 
 We also found that the most strongly regulated genes upon filovirus infection are chemokine ligands and transcription factors. We observed a strong induction of the JAK/STAT pathway, of several genes encoding inhibitors of MAP kinases (DUSP genes) and of PPP1R15A, which is involved in ER stressinduced cell death. We used comparative transcriptomics to provide a data resource that can be used to identify cellular responses that might allow bats to survive filovirus infections.

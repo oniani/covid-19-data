@@ -1,4 +1,7 @@
 To investigate the prevalence of human bocavirus (hBoV), human coronaviruses (hCoV), and human polyomaviruses (hPyV) among patients with severe acute respiratory illness (SARI), in South Africa.
+
+<|abstract_body_separator|>
+
 Results: Human bocavirus, hCoV-229E, and hPyV-WU were detected in 3.7% (25/ 680), 4.1% (28/680), and 4.1% (28/680) of respiratory specimens, respectively. All other viruses were detected in <2% of specimens. Rhinovirus was the most common coinfecting virus (21.4%-60.7%), followed by adenovirus (21.4%-39.3%), and respiratory syncytial virus (10.7%-24.0%). Testing for the additional viruses (hBoV, hCoV, and hPyV) decreased the number of specimens that initially tested negative by 2.9% (20/680).
 Conclusion: Inclusion of laboratory tests for hBoV, hCoV-229E, and hPyV-WU in differential testing algorithms for surveillance and diagnostics for suspected cases of respiratory illness of unknown cause may improve our understanding of the etiology of SARI, especially in a country like South Africa with a high number of immune compromised persons. 
 For consenting patients, HIV results were obtained from medical records available at the time of enrollment, or testing of dried-blood spots were performed at the National Institute for Communicable Diseases, Johannesburg, South Africa. Human immunodeficiency virus testing included polymerase chain reaction (PCR)for children aged <18 months and enzyme-linked immunosorbent assay for patients aged ≥18 months.

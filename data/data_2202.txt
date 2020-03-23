@@ -1,4 +1,7 @@
 The World Health Organization (WHO), like many other organisations around the world, has recognised the need to use more rigorous processes to ensure that health care recommendations are informed by the best available research evidence. This is the thirteenth of a series of 16 reviews that have been prepared as background for advice from the WHO Advisory Committee on Health Research to WHO on how to achieve this.
+
+<|abstract_body_separator|>
+
 • The preparation of systematic reviews and evidence profiles should be coordinated centrally, in collaboration with organizations that produce systematic reviews. Centrally developed evidence profiles should be adaptable to specific local circumstances.
 • Consideration should be given to models that involve central coordination with work being undertaken by centres located throughout the world.
 • While needs, availability of resources, costs, the presence of modifying factors and values need to be assessed locally, support for undertaking these assessments may be needed to make guidelines applicable.

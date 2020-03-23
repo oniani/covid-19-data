@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 The frequency of serious adverse events will be compared between the groups.
 To evaluate the effect of IFN β-1a therapy on preventing Ebola virus disease progression and/or on resolution of disease.
 To assess effects on disease symptoms and survival.

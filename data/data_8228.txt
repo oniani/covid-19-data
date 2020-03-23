@@ -1,4 +1,7 @@
 Background: Rodents represent the most diverse mammals on the planet and are important reservoirs of human pathogens. Coronaviruses infect various animals, but to date, relatively few coronaviruses have been identified in rodents worldwide. The evolution and ecology of coronaviruses in rodent have not been fully investigated.
+
+<|abstract_body_separator|>
+
 Coronaviruses (CoVs) are enveloped viruses in the Coronaviridae family that contain a positive-sense and single-stranded RNA genome of approximately 30 kilobases [1] . CoVs consist of 4 genera and have been identified in a wide range of animals and in humans.
 Betacoronavirus (β-CoV) infect mammals, and members of the Gammacoronavirus (γ-CoV) and Deltacoronavirus (δ-CoV) mainly infect avian species [2] [3] [4] . As important etiological agents, CoVs have been recognized in human and animals and cause upper respiratory diseases in most cases. To date, 6 human CoVs were discovered: 4 of them (HCoV-229E, NL63, OC43, and HKU1) mainly cause mild respiratory diseases, and the other 2, severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV) cause severe respiratory diseases [5, 6] .
 The SARS-CoV outbreak boosted the discovery of novel CoVs in various animals, particularly in bats. Over 140 novel bat coronaviruses (species or genotypes) have been discovered since the SARS outbreak [7, 8] . Furthermore, there is strong evidence to show that SARS-CoV, MERS-CoV, and HCoV229E may have evolved from bat CoVs [9] [10] [11] [12] [13] .

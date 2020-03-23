@@ -1,4 +1,7 @@
 Background: In 2015, the largest outbreak of Middle East respiratory syndrome coronavirus (MERS-CoV) infection outside the Middle East occurred in South Korea. We summarized the epidemiological, clinical, and laboratory findings of the first Korean case of MERS-CoV and analyzed whole-genome sequences of MERS-CoV derived from the patient.
+
+<|abstract_body_separator|>
+
 The largest outbreak of Middle East respiratory syndrome coronavirus (MERS-CoV) outside the Middle East occurred in South Korea in May 2015: the first confirmed case of a patient who recently visited endemic areas. Over the following 2 months, 186 cases were confirmed, including 36 deaths [1] .
 Of 24 imported cases of MERS in countries outside the Middle East, only 4 cases involved at least one secondary transmission event and 4 transmitted cases, excluding South Korea [2, 3] . It is important to evaluate the cause of this significant outbreak in South Korea, and whether the clinical features of the first patient were different from those in patients in other countries.
 The National Medical Center (NMC), Seoul, Korea, was designated as the primary MERS response center (MERS Countermeasure Headquarters) and treated patients with MERS, including the first patient. We report the clinical course and laboratory findings of the first case of MERS-CoV in South Korea to understand the unexpected spread of the outbreak. Unlike previous papers focused on epidemiology [4] , we focused on detailed clinical progress and genetic analysis that have not been previously published.

@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 July 2006 | Volume 3 | Issue 7 | e242
 Viruses are formidable targets for drug development. As obligate intracellular parasites that take over the host cellular machinery to further their own agenda, they seem to understand the intimate workings of cellular pathways better than those seeking to develop treatments against them. It is diffi cult to inactivate a virus without doing harm to the host cell.
 Only in the past decade with the concerted efforts to control the HIV/ AIDS epidemic have antiviral drugs come into their own. By targeting viral proteins and pathways unique to the viral life cycle, it has become possible to interfere with viral infection and replication for a few viruses without unacceptable host cell toxicity. However, antiviral drugs have only been developed for a handful of viruses, and none of these antiviral drugs is completely effective. Viral resistance, sequence diversity, and drug toxicity are signifi cant problems for all antiviral therapies. In this article, we discuss recent progress and obstacles to harnessing RNA interference to prevent or treat viral infection.

@@ -1,4 +1,7 @@
 We perform inference via Markov chain Monte-Carlo (MCMC) using the Li and Stephens approximation to the coalescent with recombination [1], with one further key approximation. Consider two data sets:
+
+<|abstract_body_separator|>
+
 1. D = viral sequences for which host HLA data is also available.
 2. D B = viral sequences for which host HLA data is not available.
 As D B is very large, we can assume that D B represents the collection of viral sequences (subject to recombination) that a host can be infected with. A large number of sequences in D B results in short coalescence times between any given member of D and D B , increasing our power to estimate parameters. By making this approximation, we may then assume that selection along the lineage joining a given member d of D to its nearest neighbour in D B occurred within the individual from whom the virus d was sampled. We have associated host HLA profiles for D, and so may then estimate HLA-associated selection conditional on this HLA information. A cartoon of this model is shown in Figure 1b .

@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 The current growth of human population, the intensification of animal production, climate change or globalization favors an increase in the transmission of infectious diseases between distant geographical areas (1, 2) . These diseases represent a threat for both human and animal health, resulting in higher mortality rates and serious economic losses with the decline in production.
 The risk analysis is an important tool in epidemiology and it is essential to assess the risk of introduction and possible spread of diseases in areas with little impact (emerging and re-emerging diseases). It enables the design and implementation of control measures for the disease eradication, in order to avoid, prevent and minimize the losses or consequences arising from the transmission of diseases (3) .
 The development of a conceptual model is necessary to analyze the risk of introduction of diseases. It has to integrate all the identified elements that are going to intervene in the assessment of the risk. The final risk will be estimated from the evaluation of each one of the elements considered in the conceptual model, called "parameters, " and each parameter will be defined by "variables" (4, 5) .

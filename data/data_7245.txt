@@ -1,4 +1,7 @@
 Background: Influenza infection causes respiratory disease that can lead to death. The complex interplay between virus-encoded and host-specific pathogenicity regulatorsand the relative contributions of each toward viral pathogenicityis not well-understood.
+
+<|abstract_body_separator|>
+
 Specific mutations in H5N1 mainly impact the magnitude and velocity of the host response in mice
 Tchitchek et al.
 Highly pathogenic H5N1 avian influenza (HPAI) viruses cause rare but severe disease in humans, with a case fatality rate approaching 60% among laboratory-confirmed cases. Although direct human-to-human transmission of these viruses does not occur, recent evidence suggests that only a few molecular changes in the viral surface hemagglutinin (HA) protein are sufficient to convert a non-transmissible HPAI virus into one capable of droplet transmission in the ferret model [1] [2] [3] . These findings raise concern over the possibility of a HPAI virus pandemic, and underscore the critical need for a better understanding of the mechanisms that control HPAI virus pathogenicity. Furthermore, the molecular dynamics of the host response and the complex interplay between virus-encoded determinants, host regulatory factors, H5N1 pathogenesis and severe lung disease is not well understood. Such information is essential for the development of more effective intervention strategies aimed at ameliorating human disease and loss of human life resulting from HPAI virus infections.

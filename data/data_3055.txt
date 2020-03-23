@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Laboratory investigations were conducted on-site at CERMEL's laboratories in Lambaréné (Gabon). Further bacteriological and viral advanced molecular testings were performed in specialized laboratories of partner universities in Hamburg, Bonn, Gießen, Münster, and Tübingen (Germany).
 In blood: antigen detecting rapid diagnostic tests were used: Paracheck Pf dipstick All these points of care tests were performed according to manufacturers' instructions.
 Thick blood smears were applied for malaria microscopic diagnosis. Staining was done by 20 minutes immersion into a 10% Giemsa solution and Plasmodium spp. asexual forms were determined by the Lambaréné method as described elsewhere 1 . Urine and stool cultures were performed using the procedures described in the respective microbiology laboratories specific standard operating procedures (SOPs). A urine culture was considered positive if it yielded 100,000 colony forming units per milliliter (CFU/mL).

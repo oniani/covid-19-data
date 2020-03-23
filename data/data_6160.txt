@@ -1,4 +1,7 @@
 Supplementary Figure 1. Chemical structure of NMR fragment hits. The chemical structures of the 10 initial fragment hits are shown with their % CypD inhibition (%I) at 1 mM and ligand efficiency (LE).
+
+<|abstract_body_separator|>
+
 . Chemical structures of aniline-free derivatives and macrocycles. 
 Ethyl isocyanatoacetate (870 l, 7.70 mmol) was dissolved in THF (0.4 M), then 4-(tertbutoxycarbonylamino)benzylamine (1.70 g, 7.70 mmol, 1.00 equiv) was added in one portion 32 and the reaction mixture was let 2 h at room temperature. The reaction mixture was concentrated and purified by precipitation in diethyl ether, yielding S1 (2.69 g, 99%) as a white solid. 6, 158.4, 153.2, 138.5, 134.6, 127.8, 118.4, 79.3, 60.6, 42.9, 42.1, 28.6, 14. 6.
 N-boc protected amine S1 (200 mg, 0.57 mmol) was dissolved in 1 ml of CH2Cl2, then 1 ml of TFA was added and the reaction mixture was let 1 h at room temperature. The reaction mixture was concentrated and purified by precipitation using AcOEt/hexane to yield the deprotected amine 22 (TFA salt, 191 mg, 92%) as a yellow solid. 

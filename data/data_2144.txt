@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 : A review of current data and studies on mobility patterns in humans. There is a lack of empirical data detailing why people travel, mode and distance travelled, divided by age and gender.
 Overview Highlights National Travel Survey (UK), 2011 UK based survey identifying personal travel patterns in Great Britain. Running since 1988. Approximately 20,000 individuals in 8,000 households take part each year. Collects data on how, why, when and where people travel. Data is split by age group and gender. 2011 data released in Dec. 2012; 2012 data will be available July 2013.
 Results highlight the differences between the <17 and 70+ groups and the rest of the population -both in number of trips, purpose and distances. For example, 27% of trips that <17s make are for educationbut these only make up 14% of total distance travelled. Over all age groups only 15% of the total average number of trips a year are commuting (19% of the total average distance). Even among the 18-69 yr group only 20% of journeys are commuting (23% of distance). Truscott and Ferguson 2012 [1] Informed by data from US and UK based census' on distances travelled for work. Uses piecewise kernels, including an offset power law, to represent the mobility. Runs an epidemic model to fit the kernels to a data driven network.

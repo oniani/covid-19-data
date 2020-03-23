@@ -1,4 +1,7 @@
 In tropical Singapore, influenza occurs all year-round. This study of influenza-confirmed hospitalized pediatric patients compared clinical characteristics and complications by age-group and differences between influenza A and B.
+
+<|abstract_body_separator|>
+
 cases were defined as upper respiratory tract manifestations and influenza-unrelated illness, for example, urinary tract infection (UTI).
 High dependency (HD) is a unit that caters for more severely ill patients requiring closer monitoring or non-invasive ventilation without needing ICU admission. Obesity was defined as BMI > 25 kg/m 2 .
 Immunosuppression was defined as non-malignancy related immunosuppressive therapy, for example, steroids, biological modifying agents. Pneumonia was defined as fever and cough with chest Xray (CXR) changes of lobar/broncho-pneumonia or focal infiltrates.

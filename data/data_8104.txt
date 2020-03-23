@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Yes, we have one specific unit for zoonotic diseases Yes, but we are separated further (e.g. vector-borne diseases, or food-borne zoonoses, etc) No N/A, please specify why: 9. Please provide the budget available for zoonotic diseases (even if you don't have a specific zoonoses unit) in 2014 (in thousands of US $). We recognize that in many countries health-related funds are decentralized. We are NOT asking for these. We only ask for those directly administered at the national level within the country's Ministry. Please provide details in thousands of US $ for: 9.1. Personnel (e.g. $700,000): 9.2. Program Activities (e.g. surveillance, control, etc) (e.g. $120,000): 
 Questions 11 to 19 refer specifically to ENDEMIC zoonoses (that is, those already present in your country)
 We understand that there are different levels at which disease prioritization can be performed (for all diseases, for communicable diseases only, for zoonoses only). We only want to know if zoonoses are prioritized, either as part of a larger prioritization exercise or not, and which zoonoses are most important to your country. We also understand that ideally the criteria for prioritization should be the same for all diseases, however, we provide options for each zoonosis in case different approaches were followed.

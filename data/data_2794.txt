@@ -1,4 +1,7 @@
 Background: Viral respiratory tract infections (VRI) are a major reason for hospitalization in children younger than 5 years. A case control study was conducted to investigate the potential role of breastfeeding in protecting children <1 year of age from VRI.
+
+<|abstract_body_separator|>
+
 Respiratory tract infections are a leading cause of morbidity in children.
 Studies conducted in industrialized countries report a prevalence of respiratory tract infections ranging from 3.4 to 32.1% in the first year of life (1) (2) (3) (4) . Respiratory tract infections are also a major reason for hospitalization in children younger than 5 years (5) (6) (7) .
 Different studies have explored and confirmed the role of clinical and socioeconomic risk factors for respiratory tract infections, including birth weight, gestational age, socioeconomic status, ethnicity, number of siblings, day care attendance, and parental smoking (4, 8, 9) . Breastfeeding is included among the protective factors for respiratory infections in infants. The protective role of breastfeeding against respiratory infections has been repeatedly demonstrated for children living in developing countries (10) (11) (12) . Although breastfeeding is described as protective also in industrialized countries, different study designs, definitions (e.g., for infant feeding and kind of infection), timing of evaluation of exposure (feeding), and outcome (infection), have been used in studies performed this setting.

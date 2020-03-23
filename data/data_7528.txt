@@ -1,4 +1,7 @@
 Acral melanoma is the most common type of melanoma in Asians, and usually results in a poor prognosis due to late diagnosis. We applied a convolutional neural network to dermoscopy images of acral melanoma and benign nevi on the hands and feet and evaluated its usefulness for the early diagnosis of these conditions.
+
+<|abstract_body_separator|>
+
 a1111111111 a1111111111 a1111111111 a1111111111 a1111111111
 In Asians, melanoma is rare, compared to its prevalence in Caucasians, and usually occurs in acral areas such as the hands and feet. It can be misrecognized as benign nevi (BN), is occasionally hidden by calluses, and eventually results in late diagnosis at an advanced stage, with a poor prognosis [1] [2] [3] . Since effective anti-cancer agents for treating melanoma have not yet been developed, early detection and wide excision of the skin lesion is more crucial to the cure for melanoma.
 Recently, to aid the early diagnosis of melanoma and the reduction of unnecessary skin biopsy, dermoscopy has been widely used [4, 5] . Moreover, because it is difficult for nonexperts to use [6] , artificial intelligence and deep-learning models have been applied to help physicians who are untrained to handle a digital dermoscope [7] ; its use is expected to increase in the field of teledermatology.

@@ -1,4 +1,7 @@
 Here we present the basic concepts behind the vsfold5 approach. In Section S2.1, we briefly review what algorithms have been (or are being) used to address the pseudoknot problem (for reference).
+
+<|abstract_body_separator|>
+
 Techniques for solving pseudoknots fall into roughly six widely overlapping categories.
 Loop matching strategies by and large are the oldest and currently are still utilized with other techniques. Early methods employed free energy to weight the loops [2, 3] and Monte Carlo techniques [2] to find the best pseudoknot. A recent developed approach (PLMM_DPSS) employs free energy weight of loop fragments and special features of pseudoknots to discriminate likely structures and reports computation times (known as time complexity) of order and 2 log CN N 2 N in memory, where N is the number of nucleotides in the sequence and is a constant [4] .
 Similarly, HotKnots is a heuristic approach that builds up candidate structures by adding fragments of secondary structure one at a time (from secondary structure calculations) and allows multiple partially formed structures [5] .

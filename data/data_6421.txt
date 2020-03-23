@@ -1,4 +1,7 @@
 Background: Another influenza pandemic is all but inevitable. We estimated its potential impact on the primary care medical workforce in New Zealand, so that planning could mitigate the disruption from the pandemic and similar challenges.
+
+<|abstract_body_separator|>
+
 Inputs for a "more severe" scenario included greater health effects and time spent caring for sick relatives. For this scenario, 9% of medical workdays would be lost in the peak week, and 3% over a more compressed six-week period of the first pandemic wave. As with the base case, most (64%) of lost workdays would be due to illness, followed by caring for others (31%), hospitalisation (4%), and then premature death (1%).
 Preparedness planning for future influenza pandemics must consider the impact on this medical workforce and incorporate strategies to minimise this impact, including infection control measures, well-designed protocols, and improved health sector surge capacity.
 It is probably only a matter of time before the next influenza pandemic. The only uncertainties are its timing and impact. Effective planning for public health interventions before and during a pandemic is likely to reduce its impact [1] . A pandemic is likely to be extremely disruptive, particularly for the health sector. Not only will there be a surge in demand for health services (preventive as well as cura-tive), but the health workforce is likely to have higher exposure and incidence rates.

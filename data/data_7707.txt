@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 ► This study uses a hand hygiene questionnaire, based on insights from both the Theory of Planned Behaviour and Social Ecological Models. ► The hand hygiene behaviour of medical students is investigated from a behavioural perspective in a large sample of students at the same stage of their internships. ► The main limitations of this study are its crosssectional design and the self-reported compliance with hand hygiene guidelines.
 Objectives To identify the factors that influence the hand hygiene compliance of final year medical students, using a theoretical behavioural framework.
 Design Cross-sectional survey assessing self-reported compliance and its behavioural correlates.

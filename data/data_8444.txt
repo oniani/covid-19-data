@@ -1,4 +1,7 @@
 Chlorine is a known pulmonary irritant gas that may cause acute damage in the respiratory system. In this paper, the socio-demographic and clinical characteristics of 39 accidentally exposed patients to chlorine gas are reported and different emergency treatment modalities are also discussed.
+
+<|abstract_body_separator|>
+
 Chlorine (Cl 2 ) is a yellow-green gas or boiling yellow liquid, slightly water soluble, and about two times heavier then air [1, 2] . It has a pungent, irritating odor and is a strong oxidizing agent [1, 2] . Chlorine releasing agents are frequently used for industrial, household chemicals and water purification in swimming pools or city water sources [2] [3] [4] .
 The risk of exposure to chlorine gas with large number of casualties is widespread, since chlorine is carried through densely populated areas in large quantities [3] . Inhalation exposure to chlorine can occur from inhalation of elemental Cl 2 or inspiration of vapors that contain chlorine releasing chemicals [4] [5] [6] [7] due to chemical transportation accidents [8, 9] , accidental explosions, leaks, or malfunction of chlorinedisinfection systems [7] , improper mixing of ammonia and hypochlorite bleach (forming chloramines gas) and school experiments [1, 8, 10] .
 The respiratory system is the most adversely affected of all organ systems by chlorine gas exposure [11] and complications are generally immediate with severe exposure, including acute respiratory distress syndrome (ARDS), respiratory failure, pneumomediastinum and death [1, 8, [12] [13] [14] [15] [16] .

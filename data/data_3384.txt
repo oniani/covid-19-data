@@ -1,4 +1,7 @@
 Background and Aim: Bovine respiratory syncytial virus (BRSV) is one of the main causes of severe pneumonia, interstitial edema, and emphysema in cattle. The current study investigated the prevalence and risk factors of BRSV in cattle in the Nineveh Province, Iraq.
+
+<|abstract_body_separator|>
+
 Bovine respiratory syncytial virus (BRSV) is one of the main causes of severe pneumonia, interstitial edema, and emphysema in cattle [1] . BRSV is an RNA virus with a non-segmented, single-stranded, negative-sense 15.2 kb genome that belongs to the genus Pneumovirus and family Paramyxoviridae [2] . BRSV infection leads to sudden fever, rhinitis, cough, respiratory distress, abdominal breathing, and decreased appetite [3] .
 The previous epidemiological studies reported that the prevalence of BRSV in cattle ranged from 28% to 70%, depending on animal age and environmental conditions [4] [5] [6] . The disease occurs in most countries worldwide and affects cattle of all ages, with younger animals being at the greatest risk of severe BRSV disease [7, 8] .
 Diagnosis of BRSV can be confirmed through different laboratory tests including virus isolation and antibody detection in serum and milk. Serological investigations such as serum neutralization test, complement fixation test, immunoprecipitation, and enzyme-linked immunosorbent assay (ELISA) are commonly used methods for BRSV diagnosis [9, 10] . BRSV can also be accurately diagnosed using reverse transcriptase polymerase chain reaction [11] .

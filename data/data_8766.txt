@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Section Ⅱ is a database presenting mass spectrum (Figures S1-4) and NMR spectrum and Tables S1-4) for compounds 1a−1k. Supplementary result section Ⅲ
 Section Ⅲ is a database presenting HPLC chromatogram ( Figure S1 ), UV spectrum ( Figure S1 ), mass spectrum ( Figure S2 ) and NMR spectrum ( Figures S3-4 and Tables S1-2) for compounds 6a and 6b. Figure S4 A B
 Section Ⅳ is a database presenting HPLC chromatogram ( Figure S1 ), UV spectrum ( Figure S1 ), mass spectrum ( Figure S1 ) and NMR spectrum ( Figures S2-3 and Tables S1-2) for compounds 7a and 7b.

@@ -1,4 +1,7 @@
 Here, we present the calculation of vaccine effectiveness (VE) for the Netherlands in 2014-15 and 2015-16 stratified for particular risk groups, namely chronic conditions and older age.
+
+<|abstract_body_separator|>
+
 Influenza-like illness was defined as the acute onset of fever (measured temperature ≥38 °C), with muscle pain or headache and cough or sore throat (designated as ILI hist case definition in the Text box Case Definitions). The analyses included only the participants that submitted at least 3 symptom surveys throughout the monitoring season, designated as "active" participants.
 Weekly ILI incidences of "active" participants were used, causing a slight difference in the mean number of participants for the different periods considered. The weekly ILI incidence was defined as the number of participants who reported the onset of ILI in that week, divided by the person-time of active participation during the same week. The person-time of active participation per week was defined as the number of participants who were active during any day(s) of that week multiplied by the fraction of that week during which each participant was active.
 We considered only the ILI cases in the weeks when there was virological confirmation of influenza by the Dutch Sentinel Practice Network, and of these cases, we used only the number of ILI cases above a seasonal baseline incidence for non-epidemic ILI.

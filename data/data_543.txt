@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Below is the preferred way to install plethy and the example data used in this vignette. The only prerequisite is a version of plethy ≥ 1.5.10. Here we are using a development version of R as plethy 1.5.10 is currently part of the development version of Bioconductor. As Bioconductor packages are tied to specific R versions, installing the latest plethy in, say, R-3.1.2 is not supported (but will probably work).
 > source( "http://bioconductor.org/biocLite.R" ) > biocLite( c( "plethy" , "devtools" ) ) > library( "devtools" ) > install_github( repo = "dbottomly/plethyData" ) >
 The plethy package provides code to parse files generated from the Finepointe software suite bundled with the Buxco Whole Body Plethysmographer which contain data of the form:

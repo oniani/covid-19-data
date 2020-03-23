@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 . Proteins involved in filamentous growth obtained from literature and databases. Standard Are2p is linked to cell wall construction and plays a key role in sterol biosynthesis whose regulation is important in specific stress responses [5, 6] .
 (1) Dcp2p has physical interactions with Spt6p [7] and Kem1p [7] [8] [9] , both are involved in filamentous growth. (2) Dcp2p is a phosphorylation substrate of Ste20p [10] .
 In the stringent correlation network, DCP2 is highly correlated with SUM1 (positive) and ARE2 (negative).

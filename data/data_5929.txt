@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 We computed the number e t, d of MERS-CoV infections exported during week t to destination country d outside the Middle-East region as:
 where o t, c was the frequency of MERS-CoV cases with onset in week t in region c with population pop(c), f t, c, d was the number of passengers flying from region c to country d on week t, W !" and W !" were matrices described below and ρ was the ratio of reporting (i.e. reported cases to actual cases) in the Middle East. Summation was over 20 source regions in the Middle East.
 We first reconstructed the incidence curves i t, c for each Middle East region. For some cases, the date of onset was missing and was imputed using date of hospitalization or date of report (1, 2) . We averaged all results over 20 imputed time series. The variability due to imputation was however very small in the results (<1%). Then, the number of cases with onset in week t, o t, c , was linked to the incidence of infection in the preceding weeks using the incubation period distribution w !" ( ) (i.e. the fraction of infected cases with disease onset between − 1 and weeks) according to:

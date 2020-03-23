@@ -1,4 +1,7 @@
 Thank you for the submission of your manuscript to EMBO Molecular Medicine. We have now heard back from two of the three referees whom we asked to evaluate your manuscript. As these two referees have very similar recommendations, we decided to go ahead and make a decision now.
+
+<|abstract_body_separator|>
+
 that the problem with MABs is lack of complete coverage against the multitude of lyssavirus. The described MABs have very broad neutralizing activity and may therefore allow for their clinical development. The animal model is appropriate.
 This manuscript, which in great detail describes the specificity of several MABs that may be suited to replace RIG, is timely and will be an important addition to our published arsenal of rabies biologics. The authors may wish to check the manuscript carefully for language -some of the sentences don't quite adhere to English rules of grammar (e.g., last two sentences of the introduction).
 Referee #3 (Remarks):

@@ -1,4 +1,7 @@
 Mice were intra-nasally inoculated with influenza A virus (H3N2). Three mice were sacrificed at 9 days prior to inoculation as a control, and then daily from day 0 to day 10 post-inoculation. The time-course was visualized by fitting the observed points to a third-order polynomial. OASL1 is the mouse ortholog of the human OASL gene (Elkhateeb et al., 2016) and was used in this plot.
+
+<|abstract_body_separator|>
+
 Supplementary Figure Resolution of patients with acute respiratory illness (ARI) into three clusters corresponding to bacterial infection, viral infection, and non-infectious illness (GSE63990).
 Human rhinoviruses (HRV, Baltimore Group IV, positive-sense single-stranded RNA) are the most frequent etiological agents of respiratory tract infections in both adults and children (Heinonen et al., 2016) . Children infected with HRV display a broad spectrum of clinical signs, and questions have been raised over the etiological role of HRV in respiratory disease.
 Dataset GSE67059 was generated in a study (Heinonen et al., 2016) that identified a whole blood gene expression signature for differentiating pediatric subjects with or without detectable human rhinovirus (HRV). The study included respiratory symptomatic and asymptomatic subjects as either inpatients or outpatients. Asymptomatic subjects included healthy children, and also those presenting for minor surgery that did not involve the respiratory system. GSE67059

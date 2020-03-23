@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 We adopt the heterogeneous mean-field theory [1] to uncorrelated double-layer networks. Let P A (k A ) and P B (k B ) be the degree distributions of layers A and B, with mean degree ⟨k A ⟩ and ⟨k B ⟩, respectively. We assume that the subnetworks associated with both layers are random with no degree correlation. The time evolution of the epidemic spreading is described by the variables s A kA (t), ρ A kA (t), and r A kA (t), which are the densities of the susceptible, infected, and recovered nodes of degree k A in layer A at time t, respectively. Similarly, s B kB (t), ρ B kB (t), r B kB (t), and v B kB (t) respectively denote the susceptible, infected, recovered, and vaccinated densities of nodes of degree k B in layer B at time t.
 The mean-field rate equations of the information spreading in layer A are then
 The mean-field rate equations of epidemic spreading in layer B are thus given by

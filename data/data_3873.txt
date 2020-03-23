@@ -1,4 +1,7 @@
 We recall the utility function of individual i defined in the Methods section below,
+
+<|abstract_body_separator|>
+
 for any σ i ∈ {0, 1} n → ([0, 1]) where σ * N i := {σ * j : j ∈ N i }. From the existence of a mixed Nash equilibrium in games with continuous payoffs, we know that a mixed MMPE exists for the game with payoffs (S1).
 In the following we constructively show that in the stochastic disease network game with payoffs in (S1), a degenerate (pure) MMPE strategy profile σ * := {σ * i : {0, 1} n → [0, 1]} that satisfies the above relation in (S2) exists. Note that a degenerate distribution puts weight one on a single action value, that is, the strategy profile corresponds to a single action profile for any state.
 Since in the stochastic game population response is determined by the current state of the disease only, i.e., equilibrium is stationary, it suffices to show the existence of a pure Nash equilibrium strategy for the stage game with state s ∈ {0, 1} n . A pure Nash equilibrium (NE) strategy profile σ * : {0, 1} n → [0, 1] n of the stage game with payoffs (S1) and state s satisfies

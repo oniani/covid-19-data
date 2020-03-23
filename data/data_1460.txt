@@ -1,4 +1,7 @@
 Background: Peste des petits ruminants (PPR) is an economically important disease of small ruminants such as sheep and goats. The disease is characterized by severe pyrexia, oculo-nasal discharge, pneumonia, necrosis and ulceration of the mucous membrane and inflammation of the gastro-intestinal tract leading to severe diarrhea. A SYBR Green I based real time RT-PCR targeting the N gene of PPRV has not been established for PPRV detection. Thus, the objective of present study was to develop highly sensitive N gene target SYBR Green I real time RT-PCR for specific detection and quantification of PPRV in clinical samples. A set of primers was designed to detect the nucleocapsid (N) gene of PPRV.
+
+<|abstract_body_separator|>
+
 Peste des petits ruminants (PPR) is an economically important disease of small ruminants such as sheep and goats. The disease is characterized by severe pyrexia, oculo-nasal discharge, pneumonia, necrosis and ulceration of the mucous membrane and inflammation of the gastrointestinal tract leading to severe diarrhea [1] .
 The causative agent of this disease, peste des petits ruminants virus (PPRV), is a member of the Morbillivirus genus in the Paramyxoviridae family. It has a negative sense single-stranded RNA genome encoding eight proteins [2] .
 The N gene of morbilliviruses is the most expressed gene due to a transcriptional gradient from the 3′ to the 5′ end of the genome and it is also well-conserved gene [3] . Thus, this gene is probably the best target for the development of a highly sensitive detection method.

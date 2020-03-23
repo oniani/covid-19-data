@@ -1,4 +1,7 @@
 Background: Whether viral coinfections cause more severe disease than Bordetella pertussis (B. pertussis) alone remains unclear. We compared clinical disease severity and sought clinical and demographic differences between infants with B. pertussis infection alone and those with respiratory viral coinfections. We also analyzed how respiratory infections were distributed during the 2 years study.
+
+<|abstract_body_separator|>
+
 Pertussis (whooping cough) is a highly contagious, respiratory disease caused by Bordetella pertussis (B. pertussis). The clinical symptoms of pertussis change with age, previous exposure to B. pertussis and immunization status. In newborns clinical manifestations may be severe. Most infants have a typical paroxysmal cough which can last more than two months [1] .
 Pertussis is a major cause of morbidity worldwide and of mortality in infants in developing countries. Pertussis continues as a public health concern threat given its re-emergence despite high vaccination coverage [2] . Epidemic cycles reoccur every 2 to 5 years and 2015 has witnessed the worst outbreak in the past 70 years [3] .
 Although ample evidence confirms coinfections between B. pertussis and other pathogens, especially viruses, the role of coinfections remains debated [4] [5] [6] . Most mixed infections probably arise accidentally and whether they cause more severe disease than B. pertussis alone remains unclear [7] [8] [9] [10] [11] [12] [13] [14] . Extending current knowledge on virus coinfections would make it easier to care for infants with pertussis.

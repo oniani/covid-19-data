@@ -1,4 +1,7 @@
 Table S1: Definitions Variable/Parameter Definition β Infection rate or infection probability. γ Recovery rate. t r Recovery time.
+
+<|abstract_body_separator|>
+
 T Transmissibility.
 θ t Probability that a neighbor of a root node has not transmitted yet the disease to the root node at time t.
 Φ S (t) Probability that a neighbor of a root node is susceptible at time t.

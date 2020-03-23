@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 In the SIS model individuals can be in one of two epidemiological states: Infected (I) or Susceptible (S). Each disease is characterized by a recovery rate (δ) and an infection contact rate (λ). In an infinite, well-mixed population, the fraction of infected individuals (x) changes in time according to the following differential equation 
 denotes the basic reproductive ratio. The value of R 0 determines the stability of these two equilibria: is stable when and unstable when .
 We defined a discrete stochastic process describing the disease dynamics associated with the SIS model in a finite population (see Methods) which can be represented as a

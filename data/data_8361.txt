@@ -1,4 +1,7 @@
 We describe here a novel method to fit an edge-triangle model to snowball sample data. Let D u , S u and T u be the node degree, number of stubs and triangle corners at node u from an observed snowball sample. Without additional node roles we must have D u = S u +2T u . Our approach is to use an estimator p(d) of the network degree distribution
+
+<|abstract_body_separator|>
+
 1. Simulate a length N random sequence of node degrees {D u } from the distributionp(d).
 2. Randomly assign a number of triangle corners T u to each node u according to its degree D u and the conditional distribution {p j|Du }.
 3. For each node u, assign the number of stubs S u according to S u = D u − 2T u .

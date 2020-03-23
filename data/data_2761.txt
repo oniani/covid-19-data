@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Because words mean everything, the vocabulary of the goal of a coordinated impact on a disease is important. Let us review the working definitions of three words: eradication, elimination, and control.
 Eradication represents permanently breaking the link of transmission of an agent, such that it no longer exists in circulation anywhere in the world and is not a threat to reemerge by natural means. 1, 2 Eradication is the highest goal and currently even theoretically possible for only those infectious diseases for which humans are the reservoir. Falling short of a stated goal of eradication has a history of engendering the people's loss of confidence in public health, and thus, eradication should be undertaken only with a plan that is likely to succeed. Eradication has been accomplished only for smallpox in humans and rinderpest in ruminant animals. Current programs to eradicate dracunculiasis and polio have excellent chances of success. Measles is also a feasible and worthy target of eradication.
 In contrast, elimination represents the establishment of a geographic area free of a formerly endemic disease. Elimination has been achieved for some infectious diseases in regions as large as continents, but there is always the threat of reintroduction.

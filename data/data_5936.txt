@@ -1,4 +1,7 @@
 Mathematical models and field data suggest that human mobility is an important driver for Dengue virus transmission. Nonetheless little is known on this matter due the lack of instruments for precise mobility quantification and study design difficulties.
+
+<|abstract_body_separator|>
+
 a1111111111 a1111111111 a1111111111 a1111111111 a1111111111
 Dengue fever (DF) is the most important arthropod-borne viral disease in the world. It is caused by infection with any of the four Dengue virus (DENV) serotypes. Nearly half of the human population inhabits areas with DENV transmission. In Mexico dengue incidence and severe cases have been increasing in the last decade. To date, there is no specific treatment or vaccine for DF and vector control stands as the cornerstone for DF prevention [1, 2] .
 DF is an important public health problem, especially in urban areas [3] , where it usually presents in large outbreak. The costs of treatment and management during a DF outbreak are a serious burden for health systems, especially when there is a risk for saturation of health facilities [4] .

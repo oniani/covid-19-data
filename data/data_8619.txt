@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 The ongoing coronavirus disease 2019 (COVID-19) outbreak is giving rise to worldwide anxieties, rumours, and online misinformation. But it offers an opportunity to put into practice some lessons learned in studies of social media during epidemics, particularly with respect to the dynamics of online heroisation and blame.
 Epidemics such as the H1N1 influenza pandemic, severe acute respiratory syndrome, and Ebola take place in a complex world, with many disasters (human-caused and natural) and a host of social, cultural, economic, political, and religious concerns. Responding to such concerns is not usually part of public health approaches to epidemic communications, which emphasise biomedical and epidemiological information.
 This approach is short-sighted. Research on the Ebola and H1N1 influenza epidemics 1-4 suggests that gathering online data on local perceptions has the potential to help public authorities mount more robust responses and better targeted health communications. Particularly fruitful paths to investigate, we believe, are the dynamics of heroisation and the creation of so-called figures of blame.

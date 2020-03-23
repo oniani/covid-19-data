@@ -1,4 +1,7 @@
 Under certain circumstances, we can find a simple expression for R 0 from the next generation matrix. The derivation is similar to the simplification of R 0 for the multi-city epidemic model described in Ref. [1] . For this we need the following theorems:
+
+<|abstract_body_separator|>
+
 Proof By Theorem 0.1 it is true that for the matrices C and B where C = B T , the spectral radius of C and B is the same: ρ(C) = ρ(B). By Theorem 0.2 it is true that the spectral radius of matrix C is bounded by the limits of the row sums of matrix C: min(
 As C = B T the row sums of matrix C are equivalent to the column sums of matrix B: min( j c ij ) = min( i b ij ). Therefore it follows that Eqn. S1 may be equivalently written:
 where T was the time spent infected (which depended on recovery rate r such that T = 1 r , same for all pixels), N i was the number of individuals in pixel i, infectious contacts were made with other individuals present in the pixel with rate β and m was the mobility matrix defined earlier. We let D k=1 m ki N k = N N i , the total number of individuals in pixel i at any time (where m ki is the probability that for an individual from pixel k, given that the individual made a contact, this contact was with an individual from pixel i). Recall that D k=1 m jk = 1. Then summing the jth column of the next generation matrix gives:

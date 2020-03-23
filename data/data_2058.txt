@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 In regard to sample and data sharing, we recognize the importance of the WHO global influenza surveillance and response system (GISRS) and Pandemic influenza preparedness (PIP) framework, as well as the global initiative on sharing all influenza data (GISAID) .
 From the Berlin Declaration of the G20 Health Ministers, May 2017. 1 
 Initiated at a time when there was relatively little detailed knowledge about the viruses, their structure and mechanisms of infection, their ecology or the inter-relationships among the influenza viruses infecting humans and animals, research was a high priority, not only of methods for virus detection and analysis of their antigenic properties, but also of the fundamental virological properties of the virus.

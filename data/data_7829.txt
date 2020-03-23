@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 In our study, we propose a new method for combining several data streams, e.g. temporal, spatial and genetic data, to identify clusters of related cases of an infectious disease.
 A key step in our method consists in defining, for each data stream, a cutoff distance above which cases are considered as not being part of the same outbreak cluster, i.e. not linked by local transmission. The section on 'Choosing the cutoffs based on preexisting information about the pathogen of interest' provides a theoretical background for how to choose the cutoffs.
 Once each observed case has been allocated to an outbreak cluster, we propose to use the distribution of cluster sizes to estimate the underlying reproduction number (R, the average number of secondary cases infected by an infected individual). The section on 'Estimation of the reproduction number' describes the method used to estimate R.

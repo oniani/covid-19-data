@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Indicating with the total number of age classes in the dataset, we have for Europe, for Mexico and ! = 91 for the US.
 The age grouping used in the specific data set constraints our definition for children and adults classes. For European countries and the US we define children the group of individuals below 18 years. For Mexico, children are individuals below 15 years. We indicate with the number of children age classes. Indicating with the size of age class !, then the fraction of children in each country is evaluated as:
 (S1)

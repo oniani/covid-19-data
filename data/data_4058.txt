@@ -1,4 +1,7 @@
 Introduction
+
+<|abstract_body_separator|>
+
 Acute respiratory infections (ARI) are a major cause of morbidly and mortality. Influenza virus infection is a significant contributor to the causes of ARI with estimates of the annual mortality associated with influenza ranging from 444,200-553,800 deaths globally [1] . In many parts of the world, particularly in temperate regions of the Northern Hemisphere such as the United States and Europe, influenza epidemiology and seasonality have been well characterized. Limited studies describing the epidemiology, seasonality, and burden of seasonal influenza exist in tropical and subtropical regions and in the Eastern Mediterranean region.
 In order to improve surveillance and characterize the etiologies and epidemiology of severe acute respiratory infections (SARI) in the region, the Eastern Mediterranean Acute Respiratory Infection Surveillance (EMARIS) network was established. The EMARIS network was initiated through collaboration between the U.S. Centers for Disease Control and Prevention (CDC), U. S. Naval Medical Research Unit No. 3 (NAMRU-3), the World Health Organization (WHO) Eastern Mediterranean Regional Office (EMRO), and the ministries of health of Egypt, Jordan, Oman, and Qatar.
 The Sultanate of Oman has a population of 2.8 million. The country has an area of 309.5 thousand square kilometers and is located in the southeastern corner of the Arabian Peninsula with a hot dry interior, humid coastal strip, and a mountainous southern region with seasonal (May to September) monsoon rainfall [2] .

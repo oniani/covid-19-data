@@ -1,4 +1,7 @@
 This is a well written paper that has relevance for those conducting malaria evaluation studies, developing surveillance strategies, and identifying relevant interventions for areas scaling up for elimination. The statistical analysis is appropriate; this work is reproducible, if one has high level statistical skills. To strengthen the paper, there are a couple of areas in need of further clarification. I have the following comments:
+
+<|abstract_body_separator|>
+
 1. Line 39: the authors should briefly describe and cite the studies that have been done that describe factors driving or sustaining transmission in low transmission settings. 2. Line 44: this sentence is vague 3. Line 47: why is success is quotes? 4. Line 60: the authors should acknowledge and describe the challenges of using MOH data, especially in low-income countries. 5. Line 70: the meaning of this sentence is not at all clear. 6. Line 217: it would be useful to briefly describe how this method contributes to, or compliments, Bayesian methods. 7. A section describing the limitations of this method is needed. 8. The discussion section should also describe how low-income countries, with presumably less complete surveillance data could use this method.
 In short, this paper would make a nice contribution to the malaria literature.
 Joe Keating, PhD Professor Department of Tropical Medicine Tulane University.

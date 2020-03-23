@@ -1,4 +1,7 @@
 We first sampled three central urban districts, then sampled a total of ten subdistricts within those three central urban districts, and from each of those ten subdistricts we sampled four neighborhoods (the smallest administrative unit in China, with a mean population of 3800 people per neighborhood sampled), using multi-stage stratified probability proportional to population size (PPS). At the district level, three districts were sampled from the total seven central urban districts of Shanghai by PPS (Huangpu, Xuhui, and Changning). At the subdistrict level, ten subdistricts within those three central urban districts were sampled by PPS, where the number of subdistricts needed per district was determined by proportionate stratification (four from Xuhui, three from Huangpu, and three from Changning). At the household level, 25 households per neighborhood were selected with the help of neighborhood committee cadres. The selection of households was encouraged to be broadly representative of the population of the neighborhood in terms of geographical spread.
+
+<|abstract_body_separator|>
+
 Assumptions for the sample size calculation:
 • 95% confidence, alpha equals 0.05.
 • Sigma equals 6.78, referring to a published social contact survey in Hong Kong 1 , as Shanghai may have similar characteristics of high population density and connectivity to Hong Kong.

@@ -1,4 +1,7 @@
 The Neglected Diseases section focuses attention either on a specific disease or describes a novel strategy for approaching neglected health issues in general.
+
+<|abstract_body_separator|>
+
 R ecent experience with SARS (severe acute respiratory syndrome) [1] and avian flu shows that the public and political response to threats from new anthropozoonoses can be near-hysteria. This can readily make us forget more classical animal-borne diseases, such as plague (Box 1).
 Three recent international meetings on plague (Box 2) concluded that: (1) it should be re-emphasised that the plague bacillus (Yersinia pestis) still causes several thousand human cases per year [2, 3] (Figure 1 ); (2) locally perceived risks far outstrip the objective risk based purely on the number of cases [2] ; (3) climate change might increase the risk of plague outbreaks where plague is currently endemic and new plague areas might arise [2, 4] ; (4) remarkably little is known about the dynamics of plague in its natural reservoirs and hence about changing risks for humans [5] ; and, therefore, (5) plague should be taken much more seriously by the international community than appears to be the case.
 The plague bacillus causes a rapidly progressing, serious illness that in its bubonic form is likely to be fatal (40%-70% mortality). Without prompt antibiotic treatment, pneumonic and septicaemic plague are virtually always fatal. For these reasons Y. pestis is considered one of the most pathogenic bacteria for humans.

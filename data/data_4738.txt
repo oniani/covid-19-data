@@ -1,4 +1,7 @@
 Here we describe an algorithm for simulating epidemics from our proposed individual model. Consider the situation where there is one infectious individual at current time t (i.e. the time of this individual transits from class E to class I) among an entirely susceptible population. The simulation proceeds as follows:
+
+<|abstract_body_separator|>
+
 1. Draw a waiting time t I in class I from a specified infectious period distribution, and set the time of recovery t R = t + t I .
 2. Let t next be the earliest time in the union of t I and t R (those greater than t) of all currently infectious individuals.
 3. The time of next infection t E is drawn as the first event in a non-homogeneous Poisson process with a time-varying rate β(t) (defined in the main text). There are a number of ways of simulating from a non-homogeneous Poisson process − for example, the thinning algorithm [1] which essentially samples the next event time t E from a homogeneous Poisson process with the baseline rate β and accepts that with probability β(t E )/β. Note that when there are n > 1 currently infectious individuals, the acceptance probability would become

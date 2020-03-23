@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 -Mechanical ventilation and positive end expiratory pressure ≥10cmH 2 O.
 -Diffuse infiltrate.
 -P/F ratio < 80 with fraction of inspired oxygen > 80%.

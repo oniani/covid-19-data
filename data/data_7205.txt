@@ -1,4 +1,7 @@
 RNA viruses are a major threat to human health. Here, based on extensive literature searches carried out over a period of 18 years, we provide a catalogue of all 214 known human-infective RNA virus species. We link these viruses to metadata for a number of traits that influence their epidemiology, including the date of the first report of human infection, transmissibility in human populations, transmission route(s) and host range. This database can be used in comparative studies of human-infective RNA viruses to identify the characteristics of viruses most likely to pose the greatest public health threat, both now and in the future.
+
+<|abstract_body_separator|>
+
 Technology Type(s) data item extraction from journal article
 Sample Characteristic(s)
 Infections due to RNA viruses such as influenza virus, measles virus, HIV-1 and rotavirus impose a huge public health burden, particularly in lower and middle income countries 1 3 . Since then we have regularly refined our methodology and updated the catalogue as new human-infective RNA viruses are recognised and reported in the scientific literature 4, 5 . In addition to identifying human-infective viruses, we record a number of traits including the date of the first report of human infection, transmissibility in human populations, transmission route(s) and host range (all fully described below).

@@ -1,4 +1,7 @@
 Background: Declining serum concentrations of 25-hydroxyvitamin D seen in the fall and winter as distance increases from the equator may be a factor in the seasonal increased prevalence of influenza and other viral infections. This study was done to determine if serum 25-hydroxyvitamin D concentrations correlated with the incidence of acute viral respiratory tract infections.
+
+<|abstract_body_separator|>
+
 There are seasonal variations in the incidences of viral respiratory tract infections, such as those caused by influenza [1] , respiratory syncytial virus [2] , and rhinovirus [3] . Explanations for the seasonality of infections have considered the effects of environmental factors on the survival and transmission of the pathogens [4, 5] as well as on the behavior and susceptibility of the hosts [6] .
 Indoor crowding is commonly thought to contribute to the influenza epidemics seen each winter in temperate zones. However, influenza epidemics do not occur in the summer in crowded workplaces or other gatherings, despite the presence of the virus and a multitude of nonimmune persons [6, 7] . Moreover, influenza epidemics occur simultaneously at the same latitudes across the globe; this was the case even in times when transportation methods did not allow contact between persons over many degrees of longitude over a period of a few weeks [8] .
 There are well-documented seasonal variations in 25-hydroxyvitamin D (vitamin D) concentrations [9] [10] [11] and documented correlations between those concentrations and latitudes of residence [12, 13] .

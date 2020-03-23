@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 2. MRSA was recovered from a patient isolate and no negative MRSA screening swab was taken from the patient on any earlier day during the same ICU episode.
 3. MRSA was recovered from a patient isolate taken fewer than 91 days before the patient was admitted to the ICU.
 MRSA acquisition events are defined as events where either of the following criteria holds:

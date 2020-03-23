@@ -1,4 +1,7 @@
 Background: It is now common for parents to measure tympanic temperatures in children. The objective of this study was to assess the diagnostic accuracy of these measurements.
+
+<|abstract_body_separator|>
+
 Parents and health care workers use temperatures measured by parents at home to determine if a child requires medical assessment. Health care workers sometimes make decisions about the need for investigations and hospital admission based on the temperature that parents report. This is especially true in the newborn or in the immunocompromised patient, where any temperature above the normal range can be indicative of bacterial infection.
 Health care workers have used commercial tympanic thermometers in hospitals for over 15 years. These thermometers are quick and easy to use and minimize the risk of nosocomial infection. Tympanic thermometers are now available for home use at a cost of about $50 US. There are no published studies comparing measurements obtained with tympanic thermometers designed for home use to measurements obtained with other types of thermometers, or comparing readings obtained by parents with these instruments to those obtained by health care workers. The primary objective of this study was to determine the diagnostic accuracy of readings obtained by parents with a tympanic thermometer designed for home use.
 The Health Research Ethics Board of the University of Alberta approved this study and parents and older children signed a consent form.

@@ -1,4 +1,7 @@
 Essai randomisé en double insu comparant l'association oseltamivir et zanamivir à l'oseltamivir et placebo et au zanamivir et placebo dans le traitement curatif de la grippe de type A virologiquement suspectée en médecine ambulatoire
+
+<|abstract_body_separator|>
+
 Essai randomisé en double insu testant l'efficacité virologique entre trois groupes de 300 patients. L'essai comparera en trois bras l'efficacité virologique de l'association oseltamivir et zanamivir à celle de l'oseltamivir avec placebo et de zanamivir avec placebo dans le traitement curatif de la grippe suspectée sur un test diagnostic rapide positif pour un virus Influenza de type A. L'essai sera conduit en période d'épidémie de grippe saisonnière, en médecine ambulatoire.
 Bras 1: oseltamivir, 75 mg 2 fois/j, per os pendant 5 jours associé au zanamivir 5mg x 2 inhalations (soit 10mg) matin et soir, soit 20 mg par jour durant 5 jours.
 Bras 2 : oseltamivir, 75 mg 2 fois/j, per os pendant 5 jours associé à un placebo correspondant à zanamivir 5mg x 2 inhalations (soit 10mg) matin et soir, soit 20 mg par jour durant 5 jours.

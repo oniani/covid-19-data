@@ -1,4 +1,7 @@
 In this supplementary material we discuss the mathematics behind some of the claims in the main article, how simulations are performed and how estimates are obtained from the simulations. The parameters used for the Markov SEIR epidemic model are summarized in Table 1. 
+
+<|abstract_body_separator|>
+
 1 Mathematical methods 1 
 The stochastic and mathematical analysis of the spread of infectious diseases in large populations often relies on the theory of branching processes [1] . Branching processes are introduced as a model to describe family trees, where the simplifying assumption is that all women (in the branching process literature often the female lines are chosen) have the same probability, p k , of having k daughters, where k can be any non-negative integer. Furthermore, the numbers of daughters of different women are independent.
 It is clear that this model ignores important properties of real populations, such as changing circumstances which make the distribution of the number of children change over time and the fact that populations in general cannot grow indefinitely because of competition for resources. However, simple as it is, the model has proved useful in many situations.

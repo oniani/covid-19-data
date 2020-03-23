@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Candidate mediators of eQTL, either nearby chromatin regions or genes, must also possess their own local-QTL, represented similarly:
 where M is some Y G k or Y C k , a candidate mediator of the eQTL of Y Gj . Here we consider two models of mediation: 1) the effect of an eQTL is mediated through local chromatin state (M C k ) and 2) the effect of the distal-eQTL is mediated through a nearby gene (M G k ), depicted in Fig 6. Co-localizing QTL are consistent with the co-occurrence of X → Y Gj and X → Y C k at a locus. If X is fully independent of Y given M, denoted as:
 where "A |= B" indicates that A and B are independent of each other and "A | B" is A conditioned on B, then X acts on Y completely through M, which is commonly referred to as full mediation. Partial mediatory relationships are also possible in which X affects Y both directly and through M, traditionally identified by testing for:

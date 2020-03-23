@@ -1,4 +1,7 @@
 Acute respiratory infections (ARI) are among the leading causes Background of hospitalization in children ≤5 years old. Rapid diagnostics of viral pathogens is essential to avoid unnecessary antibiotic treatment, thereby slowing down antibiotic-resistance. We evaluated the diagnostic performance of the Luminex xTAG Respiratory Viral Panel FAST v2 against viral specific PCR as reference assays for ARI in Vietnam.
+
+<|abstract_body_separator|>
+
 (0) Comments agreements between both methods [mean (range): 0.91 (0.83-1.00)] were found for 10/15 viral agents.
 : The Luminex assay is a high throughput multiplex platform for Conclusions rapid detection of common viral pathogens causing ARI. Although the current high cost may prevent Luminex assays from being widely used, especially in limited resource settings where ARI are felt most, its introduction in clinical diagnostics may help reduce unnecessary use of antibiotic prescription. 
 Acute respiratory infections (ARI) are the leading cause of morbidity and mortality in infants and children worldwide, especially in Southeast Asia (including Vietnam) and Africa 1,2 . In Vietnam, there is a high burden of ARI in children in the first year of life, who are more likely to be admitted to intensive care and have a longer hospital stay than children with other infectious diagnoses 3 .

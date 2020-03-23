@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Hitoshi Oshitani Tohoku University Graduate School of Medicine, Japan REVIEW RETURNED 19-Apr-2017
 The manuscript describes the spatial and temporal patterns of pediatric cases admitted to three tertiary hospitals in Ho Chi Minh City, Vietnam analyzed by using the electronic hospital database. The manuscript is well written and provide some important insights for seasonality and geographic distribution of acute respiratory infections. However, I have several comments for the manuscript.
 1) They did not describe general health care systems in Ho Chi Minh City. In rural areas, probably more patients go to local hospitals such as district hospitals. On the other hand, in urban areas, some patients may go to private hospitals. Brief description of general health care system in the city might be useful to understand the spatial distribution of cases.

@@ -1,4 +1,7 @@
 Objectives: To analyze trends in mortalities and causes of death among under-5 children in Beijing, China between 1992 and 2015, and to forecast U5MRs in the period of 2016-2020.
+
+<|abstract_body_separator|>
+
 2. We are the first to report the health condition of under-5 children after "Selective Two-child Policy"
 implemented in Beijing in 2014 and forecast U5MRs in the following five years.
 3. The accuracy of our study is very reliable because it is an entire-population epidemiological study covering all under-5 children in all districts in Beijing.

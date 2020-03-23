@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 As shown in Fig. 2 in the paper, the duration of interactions vary greatly. In fact, the real CPIs can be divided into two categories according to CPI duration, namely, the transient CPIs formed by purely random human interactions, and regular CPIs representing meaningful interactions among students [1] . Thus, we employed a mixture statistical model to describe the CPI durations, and determined the optimal duration threshold to distinguish these two categories. As shown in Supplementary Fig. S3 , the CPI duration histogram of the SCAU network on November 18, 2011 shows two peaks, where the left peak (denoting transient CPIs) can be approximated by a geometric distribution, and the right one (denoting regular CPIs) can be approximated by a Poisson distribution.
 Consider N CPIs with durations denoted as x 1 , · · · , x N . Suppose the parameters of the geometric distribution and Poisson distribution are p and λ respectively. Then the distribution of CPI duration can be described by a mixture model as below.
 P r(x n = k) = π 1 (1 − p) k−1 p + π 2 λ k e −λ k! .

@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 We extracted mammal-pathogen interactions from the Enhanced Infectious Diseases Database (EID2) (1) . EID2 contains 4,799 species of mammals and 70,614 species in the taxa comprising most mammalian pathogens (bacteria= 18,249, fungi= 32,687, helminth= 6,305, protozoa= 3,768, viruses= 9,605).
 EID2 utilises automated text and data-mining procedures to extract information on pathogens, their hosts and locations from two sources: 1) meta-data accompanying nucleotide sequences (hereafter sequences) published in GenBank (2, 3) and 2) titles and abstracts of publications indexed in the PubMed database (4) . To date, EID2 has extracted information from 71,076,379 sequences (and processed 100M+ sequences), and 8,643,203 PubMed titles and abstracts (TIABs).
 For the purposes of this study we considered a mammal species to be host to a pathogen if at least four independent TIABs or one sequence reported an association between the host (and any of its subspecies) and the pathogen species (or any of its subspecies or strains).

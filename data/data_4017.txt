@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Human parainfluenza viruses (HPIVs) are enveloped, single-stranded negative sense RNA viruses that belong to the family Paramyxoviridae.
 Based on genetic and antigenic variation, HPIVs have been divided into four types: HPIV-1 to HPIV-4. 1 As one of the most common pathogens associated with respiratory tract infections, most children encounter HPIV-3 within the first 2 years after birth and encounter HPIV-1 and HPIV-2 under the age of 5 years old, presenting as upper respiratory tract illness (URTI) or lower respiratory tract illness (LRTI). 2 For adults, recent studies showed that HPIVs were associated with respiratory tract illness, refractory airway disease, and virus-induced asthma. 3, 4 These findings point the disease bundle of HPIVs and highlight the need for continuous surveillance of the whole population.
 However, our knowledge on HPIVs mainly focused on their infection in children with acute respiratory infections (ARI). 5, 6 Compared with ARIs, severe acute respiratory infection (SARI) cases present a wider distribution and more diverse clinical presentations.

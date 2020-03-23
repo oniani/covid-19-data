@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 RB230194), TrueBlot anti mouse (#18-8817-33) or anti rabbit (#18-8816-33) IgG (Rockland).
 shRNA constructs for knockdown of p65 were prepared in pSuper-Puro backbone as previously described . The shRNA-encoding plasmid to knock down TNFAIP3 was obtained from Sigma (pLKO.1 shTNFAIP3 (TRCN0000050959; NM_006290). To suppress p65 or TNFAIP3, HeLa cells were transiently transfected by the calcium phosphate method. After 24 h, the medium was changed and transfected cells were selected for 48 h (for shp65) or 72 h (for shTNFAIP3) with 1 μg/ml puromycin.
 After selection cells were infected for another 24 h with a MOI of 1 with HCoV-229E before harvesting.

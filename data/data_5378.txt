@@ -1,4 +1,7 @@
 Introduction: Viruses are major aetiological agents of acute respiratory infection in young children. Although many studies have reported detection and analysis of respiratory viruses in sporadic cases, there have been few follow-up studies of individuals. The purpose of this study was to investigate the frequency of respiratory viral infections in a young child and to examine the duration of viral genome detection in clinical specimens.
+
+<|abstract_body_separator|>
+
 Over 200 serologically or genetically different viruses have been identified as major aetiological agents of acute respiratory infections (Heikkinen & Jarvinen, 2003; Eccles, 2005) . Although many viral infections are limited to the upper respiratory tract, viral infections of the lower respiratory tract can cause serious symptoms in children (Henrickson et al., 2004; Pavia, 2011) .
 Many studies have reported and identified respiratory viruses in sporadic cases of acute respiratory infection, but there have been few follow-up studies of individuals with multiple respiratory virus infections (Martin et al., 2013) .
 Thus, it is unclear how many types of respiratory viruses can infect a single person. We conducted a 27-month study to investigate the frequency of infection of 19 different respiratory viruses and subtypes in a young child in a nursery school. We sought to determine the duration of viral genome detection in clinical specimens using multiplex real-time PCR.

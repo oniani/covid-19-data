@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Pandemic and seasonal influenza result in significant morbidity, increase in hospitalization rate and mortality. Even though influenza is usually mild and self-limited disease, among certain population groups, such as elderly people, very young children and patients with different underlying medical conditions (diabetes, cardiovascular and pulmonary comorbidities, and other chronic diseases), it may pose a serious risk with potential complications and death [1] .
 2009 influenza pandemic involved the new strain of H1N1 virus. The pandemic had started in April 2009 in Mexico and spread worldwide. During 2010-2011 epidemic, according to the WHO report from countries of European Union, about 90% of subtyped influenza viruses from the hospitalized cases were pandemic strain of A (H1N1), 1%-A(H3N2) and 10%-influenza B viruses [2] .
 Unlike the seasonal influenza, during the 2009 pandemic the higher attack rates were documented among young adults compared to persons older than 60 [3, 4] . For both influenza seasons, neuraminidase inhibitors were recommended for treatment of pregnant women, children under two years, patients with severe, progressive disease, and for those having underlying chronic diseases.

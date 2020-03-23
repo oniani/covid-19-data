@@ -1,4 +1,7 @@
 All ESI-MS experiments were performed on a micrOTOF-Q mass spectrometer (Bruker Daltonics, Bremen, Germany) equipped with standard ESI source. The instrument was operated in the positive-ion mode and calibrated with the Tunemix™ mixture (Agilent Technologies, Palo Alto, CA, USA). The scan range was between 200 -1700 m/z. The mass accuracy was better than 5 ppm. Samples were dissolved in 200 µL of the water/MeCN/HCOOH (50:50:0.1, v/v/v) mixture. Analyte solution was infused at a flow rate of 3 μl/min. The instrument parameters were as follows: scan range: 50-1600 m/z; drying gas: nitrogen; flow rate: 4.0 L/min, temperature: 200 ºC; potential between the spray needle and the orifice: 4.2 kV.
+
+<|abstract_body_separator|>
+
 Intens.
 [%] 
 All NMR spectra were recorded in H2O/D2O (9:1 v:v) or DMSO at 298 K. The concentration of the sample was 2.12 ×10 -4 M.(0.7 ml). For the peptide studied the following spectra were recorded 1D proton spectrum and 2D TOCSY and ROESY at mixing times of 80 and 200 ms and additionally 1 H-13 C HSQC.

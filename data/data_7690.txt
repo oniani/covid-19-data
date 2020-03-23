@@ -1,4 +1,7 @@
 Why do we ask about your family when we are interested in contagion at work? Well, the family is the most common place for spread of infection. It is possible that people having the kind of work conditions we suspect can increase the risk of contagion ALSO have a higher risk for contagion outside of work (for example having kids at nursery). But if we gain knowledge of that risk we can "sort it out". Then we are able to more accurately estimate the risk of being infected at work. I have not completed any education (1) Elementary school, 6 or 7 years (2) Junior secondary school (3) Elementary school, 9 years (4)
+
+<|abstract_body_separator|>
+
 How many of the following categories live in the household? Tick one alternative in each row. Also count children living there part time, if they live in the household more than a fourth of the time (25%). 
 No, never (0) Yes, sometimes (1) Yes, almost always (2) 11. Are you born in Sweden? (birth_sweden)
 Yes Þ If you've ticked this alternative, jump straight to question 12 (1) No Þ If you've ticked this alternative, please answer the question below (0) When did you come to Sweden? (immigration_period)

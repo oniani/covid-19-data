@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Supplementary Table 1 Legends for Supplementary Videos 1-11
 Supplementary Videos 1-11
 Supplementary Figure 1. The impact of microglia depletion on the spread of virus infection in the brain. Bartha-DupGreen (BDG) was injected intraperitoneally or into the epididymal white adipose tissue (left side) to initiate retrograde transsynaptic spread of infection into the CNS, with or without the selective depletion of microglia with PLX5622. The propagation of infection in the brain was assessed 5 days after infection. Note the marked increase of PRV-immunopositive neurons (cyan) in the brain in the absence of microglia. This includes the spread of infection to higher cortical areas, including the piriform cortex, the insular cortex and the primary motor cortex after intraperitoneal injection. Due to the primarily sympathetic autonomic innervation of the white adipose tissue, the infection affects mostly the piriform cortex in microglia depleted animals, whereas the virus does not the reach the cerebral cortex in control mice. 3Vthird ventricle. Maximum Intensity Projection from confocal Z stack of 5 steps were made with 3,38 µm (cortex), 0,83 µm (PVN), 4,05 µm (brainstem) step size. Scale bars: 50 µm.

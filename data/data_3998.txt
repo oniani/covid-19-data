@@ -1,4 +1,7 @@
 Copyright: Du et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License 3.0 (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+<|abstract_body_separator|>
+
 With the fast developments of computer-aided drug design (CADD) [1] [2] [3] [4] [5] , currently a number of drug design approaches are developed, and several computer software packs [6, 7] are available that can speed up the discovery of new chemical and biological drugs in more efficient and economical procedure. However, so far we still have no perfect theories, ideal technologies, and faultless software tools that can guarantee complete success of the designed drugs due to the complicity of the interactions between medicinal drugs and their biological targets [8, 9] . The factors and parameters that may affect the bioactivities of drugs are not only from the structure of drug itself, but also from its biological target, coenzymes, and interaction environment [10, 11] .
 Principal component analysis (PCA) [12] [13] [14] is a useful tool that has been widely used in chemistry, biology, environment, and many fields of social science.
 The PCA approach has also been used in drug design for many years. Traditionally PCA is a single level and one direction prediction and analysis technique, described as the following equation 

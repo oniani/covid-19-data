@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Similarly, the subscript j denotes SAC j, c j is the average number of sexual partners per
 year in SAC j, and N j is the sum of all sexually active individuals in SAC j.
 In this Because a TIP shares all the same viral coat proteins as HIV-1, the TIP transmission probability per partnership is expressed as a function of identical form with the same parameter values as . 

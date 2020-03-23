@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 profile rather than the replication of RSV. There are a number of issues I feel need addressing and I have outlined them below along with some further comments.
 My main issue with the manuscript is that despite stating a number of times that one of the aims is "to establish associations between RSV infection and the resident airway microbiota" the authors do not present any data on the baseline difference in the microbiome between the two cohorts. Unless I am completely misreading the data presented, they are simply describing the microbiome in the cohort as a whole on Page 5 and in figure 1a . In all subsequent analysis steps there are direct comparisons drawn between the RSV positive and negative cohorts so why is this not presented for the microbiome date? Indeed in the discussion the authors themselves state on page 10 "We also found evidence that infection with RSA is associated with increased streptococcal colonisation", without actually providing any of this data. This data should be included, even if not novel.
 Looking at the two cohorts there appear to be differences in the oxygen saturations, between cohorts, were these statistically significant? Can this be added to the Ledged of Figure 1 .

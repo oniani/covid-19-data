@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 . Distribution of Ebola virus incubation period (from exposure to symptoms), by days of incubation Notes: Adapted from Legrand et al. [3] and Eichner et al. [4] . *Frequency related to the number of patients out of a total of 5,000. Source: Meltzer et al. [1] 
 Progression only: EbolaResponse uses specific features to derive the number of Ebola virus disease (EVD) cases. A patient can only progress forward through the model (e.g., can never go from incubating (I) back to susceptible (S)), and no patient can skip a state (e.g., go from incubating to recovered, skipping infectious).
 Community size: the model uses a community size equivalent to the total population in the city, and assumes that all the population is susceptible to the disease.

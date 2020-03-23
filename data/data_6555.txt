@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 The probability, , that case was infected by case is
 where the sum in the denominator is over all potential infectors k of case j.
 The expected value of the case reproduction number for case is = ∑ . The expected value of the case reproduction number for a set, , of cases is = ∑ ∈ ⁄ .

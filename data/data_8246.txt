@@ -1,4 +1,7 @@
 To evaluate the presence of viruses and bacteria in middle ear and adenoids of patients with and without otitis media with effusion (OME).
+
+<|abstract_body_separator|>
+
 a1111111111 a1111111111 a1111111111 a1111111111 a1111111111
 Otitis media with effusion (OME) is a common childhood disease characterized by the presence of fluid in the middle ear, with no symptoms and/or signs of acute inflammation [1, 2] . In the United States, approximately 90% of all children develop an episode of OME before they reach school age, mainly between the ages of 4 months and 6 years [2] . The presence of OME is associated with severe negative impact on child development, including hearing loss with long-term consequences for speech and language acquisition, poor school performance, and imbalance issues [1] [2] [3] . Moreover, children with OME are five times more susceptible to develop acute otitis media than controls [4, 5] .
 The pathogenesis of OME is still not fully understood. Epidemiological data suggest that the pathogenesis of OME is multifactorial, involving anatomical, immunological, genetic, microbial, and environmental factors [6] [7] [8] [9] . However, it is widely accepted that the dysfunction of the Eustachian tube play a key role in the development of OME in all ages.

@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 Biojector DNA vaccine primes: N = 20 Needle and Syringe DNA vaccine primes: N=20 10 10 PU rAd booster vaccination: N=20 10 11 PU rAd booster vaccination: N=20
 Each subject will require 42 weeks on study to complete the prime-boost regimen and clinical follow-up. A long-term follow-up one year later (week 94) will be encouraged to allow HIV testing, long-term immunology evaluation and interview about significant health changes. However, subject may opt for long-term contact to occur by telephone, e-mail or mail for the interview only.
 The primary endpoint is safety of the prime-boost vaccination regimen; secondary endpoints are cellular immune responses through 4 weeks after the 3 rd DNA vaccine and through 6 weeks after the rAd booster, the Ad5 neutralizing antibody titer through 4 weeks after the rAd booster, and social impact of participating in an HIV vaccine study. Exploratory analyses will include assays for cellular and humoral immunity at intervals between Day 0 and Week 42 and at Week 94 for subjects who opt to return for a long-term follow-up blood draw.

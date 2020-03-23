@@ -1,4 +1,7 @@
 Background: Severe acute respiratory syndrome (SARS), a recent epidemic human disease, is caused by a novel coronavirus (SARS-CoV). First reported in Asia, SARS quickly spread worldwide through international travelling. As of July 2003, the World Health Organization reported a total of 8,437 people afflicted with SARS with a 9.6% mortality rate. Although immunopathological damages may account for the severity of respiratory distress, little is known about how the genome-wide gene expression of the host changes under the attack of SARS-CoV.
+
+<|abstract_body_separator|>
+
 controls to acute SARS patients. The rank of SARS severity was significantly correlated with the recovery period (in days) and with the clinical pulmonary infection score.
 The use of the GAP approach has proved useful in analyzing the complexity and continuity of biological systems. The severity rank derived from the global expression profile of significantly regulated genes in patients may be useful for further elucidating the pathophysiology of their disease.
 SARS-CoV is a single-stranded, plus-sense RNA virus with a genome of ~30 kb. Its sequence does not closely resemble any of the previously characterized coronaviruses [1] [2] [3] [4] . Before SARS-CoV was recognized as the cause of the deadly SARS [1] [2] [3] [5] [6] [7] , other human coronaviruses had only been known to account for 15-30% of colds [8] .

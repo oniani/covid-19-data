@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 The exact sample size (n) for each experimental group/condition, given as a discrete number and unit of measurement An indication of whether measurements were taken from distinct samples or whether the same sample was measured repeatedly
 The statistical test(s) used AND whether they are one-or two-sided Only common tests should be described solely by name; describe more complex techniques in the Methods section.
 A description of all covariates tested A description of any assumptions or corrections, such as tests of normality and adjustment for multiple comparisons A full description of the statistics including central tendency (e.g. means) or other basic estimates (e.g. regression coefficient) AND variation (e.g. standard deviation) or associated estimates of uncertainty (e.g. confidence intervals)

@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 In the early stages of an epidemic, when the effect of increasing incidence on the depletion of susceptibles is small, the growth of the epidemic is exponential in nature, with rate r[1]- [4] . Assuming the classical SEIR (susceptible-infectious-recovered) transmission model, the reproduction number, R 0 , is determined from
 where 1/κ and 1/γ are the latent and infectious periods, respectively.
 Given M incidence measurements, y data i , at time points, t i , separated by ∆t (i = 1, ..., M ), the best fit exponential rise r is determined by minimizing the Poisson negative log likelihood [5] :

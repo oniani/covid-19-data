@@ -1,4 +1,7 @@
 Although acute bronchitis is quite common, there is relatively limited information regarding the microorganisms that are involved in this illness.
+
+<|abstract_body_separator|>
+
 We performed a prospective study of acute bronchitis at 31 hospitals and clinics in Korea from July 2011 to June 2012. Sputum specimens were collected for polymerase chain reaction (PCR) and culture of microorganisms.
 Of the 811 enrolled patients, 291 had acceptable sputum specimens that were included for analysis of the etiologic distribution. With multiplex PCR testing, viruses were identified in 36.1% (105/291), most commonly rhinovirus (25.8%) and coronavirus (3.8%). Typical bacteria were isolated in 126/291 (43.3%) patients. Among these patients Haemophilus influenzae (n = 39) and Streptococcus pneumoniae (n = 30) were isolated most commonly; atypical bacteria were identified in 44 (15.1%) patients. Bacteria-only, virus-only, and mixed infections (bacteria plus virus) accounted for 36.7% (98/291), 17 .2% (50/291), and 18.9% (55/291) of infections, respectively. In particular, 52.4% of patients with viral infection had a concurrent bacterial infection, and rhinovirus was the most common virus in mixed infections (40/55) . Additionally, infections with typical bacteria were more common in
 Acute bronchitis is an inflammation of the large airways that is characterized by cough and/or sputum that usually lasts one to three weeks [1] . It is one of the most common illnesses among outpatients, and many patients receive antibiotic therapy [1] [2] [3] .

@@ -1,4 +1,7 @@
 Remarks for Aut hor: Wang et al. developed a drug screening syst em wit h a human SMN2 report er cell line and found that a compound increased the SMN2 prot ein level. The flow present ed in this manuscript is st raight forward and easy to underst and, but unfort unat ely the novelt y is not st rong in terms of the screening st rat egy to find enhancers of SMN2 expression (previously discussed elsewhere, e.g. Drugs. 2018 Mar;78(3):293-305., J Biomol Screen. 2012 Apr;17(4):481-95. Et c.), and invest igat ion for MOA of lead compounds is limit ed or not sufficient . Alt hough the approach is int erest ing, there are several issues to be resolved for scient ific significance.
+
+<|abstract_body_separator|>
+
 4.The authors should investigate the SMN2 protein levels in spinal cord of SMN model mice after treat ment wit h Z-FA-FMK and E64d to clarify the POC in vivo.
 Minor point s 1)The qualit y of all images to show alt ered GFP signals is poor wit h a high background noise. The aut hors had bet ter use the Luc report er syst em.
 2) The aut hors should add graphs to show the screening result s by plot ting alt ered rat ios compared wit h DMSO cont rol for each compound.

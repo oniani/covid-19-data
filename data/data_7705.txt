@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 sudden fever and dry cough, along with chills and muscle aches. Despite these symptoms, after the flight he still managed to drive from Dulles Airport to Anytown, Maryland. Within 2 hr of arriving at his apartment to his wife and two children in Anytown, Mr. Smith's condition rapidly deteriorated, and he began to have difficulty breathing. His wife drove him to General Hospital emergency department in Anytown.
 Mr. Smith was admitted to the intensive care unit at General Hospital on 8 March, with a suspected clinical diagnosis of severe acute respiratory syndrome (SARS).
 Three days later (11 March), doctors at one hospital in Washington, DC, one hospital in Baltimore, and General Hospital in Anytown admitted three patients each (total = 9 patients) with histories of acute onset of high fever (> 38°C) and dry cough followed by shortness of breath.

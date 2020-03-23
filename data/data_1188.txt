@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 The development of vaccines directed against clinical relevant viral pathogens is perhaps the most important contribution of immunology to public health. Traditional vaccine preparations are based on attenuated or inactivated whole viruses or partially purified viral proteins. These strategies, although effective against a large number of pathogens, present drawbacks due to viral intrinsic characteristics such as poor or null in vitro replication and antigenic hypervariability [1] .
 In order to overcome these issues, quite a number of novel approaches have been developed, one of the most promising focusing on epitope-based vaccine preparation.
 The possibility to use minimal structures such as peptides, or a mixture of them, as the main constituent of a vaccinal preparation, presents many advantages. Firstly, peptides can be easily produced in vitro reducing production costs and simplifying large-scale vaccine production procedures. Moreover, expression of peptides belonging to viral proteins does not necessarily require in vitro pathogens growth, overcoming viral culturing issues. This strategy also presents safety benefits, zeroing problematic related to back mutations for attenuated viruses and reducing side effects due to possible improper immune response against viral antigenic determinants.

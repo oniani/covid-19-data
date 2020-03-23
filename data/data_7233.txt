@@ -1,4 +1,7 @@
 1 ・Supplementary Figure S1 Chromatograms of size fractionation HPLC 2 ・Supplementary Figure S2 LC-ESI-MS and MS 2 spectra of 88 strial glycans 3 ・Supplementary Figure S3 Positive ion mode MALDI-QIT-TOF-MS spectra of SALSA-4 derivatised glycans 5 ・Supplementary Figure S4 LC-ESI-MS and MS 2 spectra of A3-13 species 6 7 ・Supplementary
+
+<|abstract_body_separator|>
+
 X shows the number of mannose residues attached to the core GlcNAcs.
 ・GX: G indicates glucose attached to the mannose residue at the non-reducing end.
 X shows the number of glucose residues.

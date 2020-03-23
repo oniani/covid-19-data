@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 1. For a given trait, conduct a genome scan according to model:
 where y i is the trait level for individual i, µ is the intercept, batch b is a categorical fixed effect covariate with five levels b = 1, . . . , 5 representing five sequencing batches for both gene expression and chromatin accessibility and b[i] denoting the batch relevant to i, ε i ∼ N(0, σ 2 ) models the residual error, and QTL i models the genetic effect at the locus.
 2. Perform permutation scans to characterize a GEV. Calculate a genome-wide error rate controlled pvalue, permP G , from the observed maximum logP of the genome scan. The permP G is stored to be used as input to an FDR procedure.

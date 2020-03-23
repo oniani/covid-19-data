@@ -1,4 +1,7 @@
 Background: Better knowledge of distribution of respiratory viruses (RVs) in adolescents and adults with community-acquired pneumonia (CAP) is needed.
+
+<|abstract_body_separator|>
+
 of RVs present in adolescents and adults patients with pneumonia is needed.
 In general, compared to conventional viral diagnostic methods (culture, antigen detection, and serological assays), PCR-based methods are 2-5 times more sensitive to detect RVs [6] . Moreover, use of PCR has augmented detection of viruses that are difficult to identify with conventional methods, including human rhinovirus (HRV), human coronavirus (hCoV), human metapneumovirus (hMPV), and human bocavirus [7, 8] . Recently, development of several multiplex assays has enabled simultaneous detection of up to 15 different viruses, and use of these tests is becoming standard for identification of respiratory viruses [9] [10] [11] .
 In an attempt to better characterize the viral etiology of CAP in adolescents and adults, a multi-center, prospective surveillance was conducted in 12 general hospitals of Beijing, from November 2010 to April 2012, using a multiplex RT-PCR assay covering all common RVs associated with CAP [12] . We also sought to evaluate age and severity of disease related to different pathogens.

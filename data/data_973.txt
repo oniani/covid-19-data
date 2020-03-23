@@ -1,4 +1,7 @@
 Background: Toxoplasma gondii is an intracellular protozoan parasite that infects a wide variety of warm-blooded hosts, including humans. Limited information about T. gondii infection in bats is available in China. The objective of the present study was to determine prevalence and genetic characterization of T. gondii infection in bats in Jilin, Liaoning, Jiangxi and Guangdong provinces, China.
+
+<|abstract_body_separator|>
+
 Toxoplasma gondii is an obligate intracellular protozoan parasite with a worldwide distribution, which can infect a wide variety of warm blooded animals and humans. Approximately one third of the world population and 7.9% of population in China are seropositive for T.
 gondii antibodies [1] [2] [3] . T. gondii infection can cause serious diseases in the developing fetus and immunocompromised individuals [4] . It is transmitted to humans and animals via ingesting T. gondii tissue cysts from undercooked meat, by consuming water or food contaminated with T. gondii oocysts, or through transplacental transmission [5, 6] .
 Bats are considered as important natural reservoir of many zoonotic viruses, such as rabies virus, Hantavirus, Marburg virus, Nipah virus, Ebola virus and severe acute respiratory syndrome coronaviruses [7, 8] . Besides viruses, bacteria, fungi, and protozoa have been detected in bats, and can potentially be transmitted to humans [9] [10] [11] . Bats are important to public health, as they live in different habitats and have high mobility and the possible interactions with humans.

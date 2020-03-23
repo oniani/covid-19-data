@@ -1,4 +1,7 @@
 Within the ABC-SMC approach [1], particles are first generated from the prior distribution. Particles are then resampled from the obtained sample, and slightly perturbed. From these resampled particles, a new sample is formed, from which again particles are resampled, etc.
+
+<|abstract_body_separator|>
+
 Within the ABC-SMC approach [1] , particles are first generated from the prior distribution. Particles are then resampled from the obtained sample, and slightly perturbed. From these resampled particles, a new sample is formed, from which again particles are resampled, etc.
 The threshold value for the summary statistic -below which new particles are accepted -is lowered with every newly obtained sample. As a result, the acceptance rate decreases and the acceptance threshold approaches zero with an increase in the number of iterations (resamplings).
 Initial -values were estimated as follows. We generated 100 trees and we calculated the summary statistics (indices) and used the standard deviation of this distribution as the initial values. The -values were decreased in an exponential fashion as the sequential ABC scheme progresses.

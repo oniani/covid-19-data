@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 DEGs in lungs and blood were determined between infected and control mouse of C57BL/6J 17 (B6) and 129S1/SvImJ (129) CC founder strains using the data set described by (Leist et al. 18 2016) (GSE74077). 26% of DEGs were shared in the lungs of B6 and 129 strains and 3.8 % 19
 in the blood between B6 and 129 strains. However, only 0.1 % were shared when blood of 20 B6 was compared to lung of 129 and 0.3 % when lung of B6 was compared to blood of 129. 21
 Thus, lung and blood DEG do not show a strong overlap and, therefore, lung DEGs of mice 22

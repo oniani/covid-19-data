@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 To the editor:
 Human parainfluenza viruses (HPIVs) are one of the most frequent pathogens that circulate worldwide 1 . Four types of HPIVs were identified, including HPIV-1 to -4. HPIVs can lead to acute respiratory infection in young, 2 the immunocompromised, 3 and the elderly patients. 4 The epidemiological character of parainfluenza virus in Beijing has not been previously reported.
 In a consecutive 4-year surveillance of acute respiratory infections (ARIs) between January 2011 and December 2014, a total of 3978 specimens were collected from the fever outpatients with ARIs (with acute fever (temperature of ≥38°C) and cough or sore throat fewer than 5 days) by throat swab and sputum for those also with abnormal chest X-ray. The patients with ages ranging from 1 month to 96 years old (mean AE SD: 29Á92 AE 23Á13) were from five sentinel hospitals in Beijing, which covered about 8Á6 million population of the city. The study was approved by the Ethical Committee of Beijing Center for Disease Prevention and Control (CDC). All samples were analyzed anonymously.

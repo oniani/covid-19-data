@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 The pGL3-basic and phRluc-TK were purchased from Promega. Plasmids used to generate PCR templates for in vitro RNA synthesis and reporter assays were obtained using overlapping PCR. All of the plasmids were sequenced to verify correct sequences.
 Human muscle rhabdomyosarcoma cell lines (RD, ATCC® CCL-136) were maintained in Dulbecco's modified Eagle's Medium supplemented with 10% fetal bovine serum (Thermo Fisher), 100 IU/ml penicillin/streptomycin, and 4 mM L-glutamine in an incubator containing 5% CO 2 at 37ºC. Human enterovirus 71 (EV71) (strain: SK-EV006/Malaysia/97) was used in this study. Genomic RNA was synthesized by in vitro transcription using the MEGAscript® T7 Transcription Kit (Thermo Fisher). RD cells were transfected with 10 μg RNA by Lipofectamine® 2000 (Thermo Fisher) in 10 cm dishes. Seventy-two hours post transfection, the cultured cells were frozen and thawed three times. The supernatant containing EV71 virus was harvested. To concentrate EV71 virions, the supernatant from virus-infected RD cells was ultracentrifuged at 100, 000×g for 2.5 h at 4ºC and then resuspended with an appropriate volume of DMEM. For titration, diluted virus supernatant was inoculated with RD cells in a 96-well plate. The wells with CPE were counted and the TCID 50 was calculated by the Reed-Muench method (Reed and Muench 1938) .
 3

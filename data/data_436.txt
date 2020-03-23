@@ -1,3 +1,6 @@
+
+<|abstract_body_separator|>
+
 : Flow diagram of the 2-strain SEIR co-infection model structure. Solid arrows indicate flow through the infection process once a bird becomes infected. V A virions are shed by birds in the following states: n IS , n IR , n IE . V B virions are shed by birds in the states: n SI , n RI , n EI . V AB virions are shed only by birds in the n II state.
 Table S1 provides the baseline parameter values used in the simulation model for the estimation of the Critical Community Size (CCS). 
 The latent period and duration of infectiousness were described by a gamma distribution implemented as the sum of four exponential distributions [15] . The mean latent period was 1 day [3, 4] , and 99% of birds had passed through the E compartments after 2.4 days. The mean infectious period was 5 days [5, 3] , and 99% of birds had passed through the I compartments after 12.6 days. The total number of birds transitioning from each compartment at any given time step ∆t were sampled from the binomial distribution. When more than one transition was possible, the numbers that moved to each compartment were drawn from a multinomial distribution according to each hazards relative contribution to the overall hazard of leaving the compartment. Equivalent deterministic model equations are provided in the supplementary information.

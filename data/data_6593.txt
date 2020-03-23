@@ -1,4 +1,7 @@
 Here we present technical and mathematical results supporting the main paper.
+
+<|abstract_body_separator|>
+
 1 Solution of the linear compartmental model 1 
 Consider the continuous-time Markov chain X = (X(t)|t ∈ R + ) with state space S = {i} m i=1 , m ∈ N, and rates γ = (γ 1 , . . . , γ m−1 ), γ i ∈ R + , ∀ i ∈ S \ {m}. For convenience we will set γ m = 0.
 This has the following m × m generator matrix
